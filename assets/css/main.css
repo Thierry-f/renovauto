@@ -101,7 +101,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 400;
-		color: #919499;
+		color: #161616;
 		font-size: 14pt;
 		line-height: 1.75em;
 		letter-spacing: 0.025em;
@@ -1476,11 +1476,18 @@ input, select, textarea {
 			line-height: 1.5em;
 		}
 
+		header.style1 .vo2 {
+			color: #d11e27;
+			display: block;
+			margin: 1.15em 0 0 0;
+			font-size: 2em;
+			letter-spacing: 0.075em;
+			line-height: 1.5em;
+		}
+
 /* Table */
 
-	table {
-		width: 100%;
-	}
+	 
 
 		table.default {
 			width: 100%;
@@ -1623,6 +1630,10 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 			margin: 0 0 2em 0;
+		}
+
+		.vendu {
+			margin-top: -60%;
 		}
 
 /* Button */
@@ -3011,4 +3022,178 @@ input, select, textarea {
 							margin-top: 0;
 						}
 
+	}
+
+	img {max-width: 100%}
+
+	input[type=radio]{
+	
+	position: absolute;
+	left: -9999px
+	
+	}/*on cache tous les input*/
+		
+	.slider-input label{
+		
+	cursor:pointer/*on pointe tous les labels*/
+		
+	}
+	
+	.slider-input{
+	
+	overflow: hidden;
+	position: relative;
+	max-width: 600px;
+	margin: 2rem auto
+		
+		}
+	
+	
+	.photos-mini{
+		
+		
+	padding-top: 66.67%;/* il s'agit du ratio pour le responsive*/
+	display: flex;
+	
+		}
+	
+	.miniature{
+	
+	flex: 1; /*les photos occupent la même place selon la largeur du conteneur*/
+	padding:.25rem;
+	border: solid 2px #fff;
+		
+	}
+		
+	
+	.fenetre{/*grande photo*/
+	
+	position: absolute;
+	top: 0;
+	left: 0;
+	transition:transform .6s,opacity .6s;
+	transform:translatex(-100%);
+	opacity: 0;
+	width: 70%;
+		
+		}
+	
+	.fen:checked~ .fenetre{
+		
+	transform:translatex(0%);
+	opacity: 1;
+	border: solid 10px #fff;
+		
+		}
+	
+	.figcaption{/*optionnel*/
+	
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding: .25rem;
+	transition: opacity .4s;
+	opacity: 0;
+	display: flex;
+	justify-content: center;
+	color: white;
+	background: hsla(0,0%,0%,.8)
+	
+	}
+	
+	.fen:checked~.figcaption{
+	
+	opacity: 1
+		
+		}
+
+	.vo {
+		background-color: #f3f3f3;
+	}
+
+	.vo1 {
+		color: rgba(230, 16, 16, 0.897);
+		display: block;
+		margin: 1.15em 0 0 0;
+		font-size: 1.3em;
+		letter-spacing: 0.075em;
+		line-height: 1.5em;
+
+	}
+
+	.vo2 {
+		color: #db0b0b;
+		font-size: 2em;
+		display: block;
+		margin: 1.15em 0 0 0;
+		letter-spacing: 0.075em;
+		line-height: 1.5em;
+	}
+
+	.detail{
+		display: flex;
+		margin: 20px;
+	
+	}
+	
+	.grille{
+		margin: auto;
+		box-shadow: 20px 20px 20px -22px;
+	}
+	
+	.ligne{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	
+	.text{
+		color: #3031328f;
+		font-size: small;
+	}
+	
+	.critere{
+		color: #a71313;
+		text-decoration: underline;
+		text-align: center;
+	}
+
+	hr {
+		width: 50%;
+		margin: auto;
+	}
+
+	.trait{ 
+		width: 90%;
+	}
+	.liste{
+		text-align: center;
+	}
+
+	.sous_titre{
+		text-align: center;
+		text-decoration: underline;
+	}
+
+	.table {
+		display: flex;
+		align-items: center;
+		flex-wrap: wrap;
+		justify-content: space-around;
+	}
+
+	.backgroun {
+		background-color: #f3f3f3;
+	}
+
+	.ethanol1{
+		text-align: center;
+		color: #21e121;
+	}
+
+	.def {
+		text-align: center;
+	}
+
+	p {
+		margin: 10px;
 	}
