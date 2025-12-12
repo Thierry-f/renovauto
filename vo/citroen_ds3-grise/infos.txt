@@ -1,0 +1,29 @@
+title = Citroën DS3 THP 150 Sport Chic
+prix = 7000
+annee = 2010
+km = 134800
+carburant = Essence
+boite = Manuelle
+puissance = 156 ch (9 CV)
+couleur = Grise
+resume = Citroën DS3 THP 150 Sport Chic berline, grise, 9 cv, 3 portes, première mise en circulation le 27/04/2010, garantie 3 mois.
+5 places
+options =
+- rétroviseurs électriques
+- phares de jour (feux diurne)
+- ordinateur de bord
+- climatisation automatique
+- ABS
+- airbags frontaux
+- ESP
+- aide au freinage d'urgence
+- puissance réelle : 156 ch
+- nombre de rapports : 6 vitesses
+- émission CO2 : 155 g/km
+- Puissance kilowatt : 115 kw
+- vitres avant éléctriques
+- latéraux et rideaux
+- Eclairage d'ambiance
+- Parfumeur d'ambiance
+- Pavillon bi-ton
+- Vitrage AR surteinté

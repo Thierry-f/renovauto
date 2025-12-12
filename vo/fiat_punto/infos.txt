@@ -1,0 +1,24 @@
+title = Fiat PUNTO 1.2 8V 69 Pop
+prix = 4800
+annee = 2013
+km = 138600
+carburant = Essence
+boite = Manuelle
+puissance = 69 ch (4 CV)
+couleur = Bleu
+resume = Fiat Punto 1.2 8V 69 Pop berline, bleu, 4 cv, 3 portes, première mise en circulation le 19/04/2013, garantie 3 mois.
+5 places
+options =
+- puissance réelle : 69 ch
+- nombre de rapports : 5 vitesses
+- émission CO2 : 133 g/km
+- Puissance kilowatt : 51 kw
+- Direction assistée électrique "DualDrive"
+- Lève-vitres AV électriques
+- Volant ajustable en hauteur et profondeur
+- Boucliers couleur carrosserie
+- Ecran multifonctions
+- Prédisposition autoradio
+- 2 appuis-tête AR
+- Airbag conducteur et passager AV
+- Condamnation centralisée à distance

@@ -1,0 +1,26 @@
+title = Nissan Micra 1.2 - 80 Must
+prix = 4500
+annee = 2008
+km = 103000
+carburant = Essence
+boite = Manuelle
+puissance = 80 ch (5 CV)
+couleur = Gris
+resume = Nissan Micra 1.2 - 80 Must berline, grise, 5 cv, 3 portes, première mise en circulation le 13/02/2008, garantie 3 mois.
+5 places
+options =
+- allumage automatique des feux
+- ordinateur de bord
+- climatisation
+- ABS
+- airbags latéraux
+- fixation ISOFIX
+- puissance réelle : 80 ch
+- nombre de rapports : 5 vitesses
+- émission CO2 : 143 g/km
+- Puissance kilowatt : 59 kw
+- vitres avant éléctriques
+- climatisation manuelle
+- Airbag nissan conducteur et passager (déconnectable côté passager)
+- Amplificateur de freinage N.B.A.S
+- Direction électrique à assistance variable

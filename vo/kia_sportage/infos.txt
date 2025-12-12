@@ -1,0 +1,65 @@
+title = Kia Sportage 1.7 CRDi 115 ISG 2WD Active
+prix = 9200
+annee = 2012
+km = 169050
+carburant = Diesel
+boite = Manuelle
+puissance = 115 ch (6 CV)
+couleur = Gris
+resume = Kia Sportage 1.7 CRDi 115 ISG 2WD Active tout-terrain, grise, 6 cv, 5 portes, première mise en circulation le 07/03/2012, garantie 3 mois.
+5 places
+options =
+- Bluetooth
+- CD
+- auto-radio : CD
+- Allumage automatique des projecteurs
+- Assistance au démarrage en côte (HAC)
+- Régulateur de vitesse avec commande au volant
+- Système Stop & Go (ISG)
+- allumage automatique des feux
+- détecteur de pluie
+- régulateur de vitesse
+- Becquet de toit
+- Compartiments de rangement sous le plancher du coffre
+- Eclairage statique d'intersection
+- Essuie-vitre AR avec lave-glace
+- Feux AV diurnes à LED
+- Lunettes et vitres latérales AR sur-teintées
+- Radar de parking AR
+- Rails de toit profilés aspect chrome
+- Rétroviseur intérieur anti-éblouissement (technologie électrochrome)
+- Rétroviseurs extérieurs rabattables électriquement avec répétiteur de clignotant
+- Vitres et lunette AR teintées
+- caméra de recul
+- jantes : alliage
+- radar arrière de détection d'obstacles
+- radar d'aide au stationnement
+- rétroviseurs dégivrants
+- rétroviseurs rabattables
+- rétroviseurs électriques
+- Accoudoir central AV avec boîte de rangement
+- Boîte à gants fermée
+- Crochet de fixation dans le coffre
+- Direction à assistance électrique asservie à la vitesse (MDPS)
+- Dossier de banquette AR rabattable 60/40
+- Filet de plancher de coffre
+- Pare-soleil avec miroirs de courtoisie illuminés conducteur et passager
+- Plafonnier central AV et AR
+- Porte-gobelets 2 à l'AV
+- Prise 12V sur la console centrale AV
+- Rétroviseur intérieur à réglage automatique jour/nuit (technologie électrochrome)
+- Siège conducteur à réglage lombaire
+- Volant à 4 branches réglable en hauteur et en profondeur
+- accoudoir et porte-gobelets
+- avec commandes au volant
+- accoudoir central
+- accoudoir central arrière
+- climatisation
+- fermeture centralisée
+- ordinateur de bord
+- prise 12V
+- réglages du volant : hauteur et profondeur
+- siège conducteur réglable en hauteur
+- verrouillage à distance
+- vitres avant éléctriques
+- vitres électriques

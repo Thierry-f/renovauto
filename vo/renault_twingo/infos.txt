@@ -1,0 +1,50 @@
+title = Renault Twingo II 1.2 LEV 16v 75 eco2 Expression Euro 5
+prix = 4800
+annee = 2011
+km = 139000
+carburant = Essence
+boite = Manuelle
+puissance = 75 ch (4 CV)
+couleur = Blanc
+resume = Renault Twingo II 1.2 LEV 16v 75 eco2 Expression Euro 5 berline, blanc, 4 cv, 3 portes, première mise en circulation le 11/05/2011, garantie 3 mois.
+4 Place
+options =
+- direction assistée
+- fermeture centralisée
+- ABS
+- airbags frontaux
+- phares antibrouillard
+- aide au freinage d'urgence
+- répartiteur électronique de freinage
+- fixation ISOFIX
+- puissance réelle : 75 ch
+- nombre de rapports : 5 vitesses
+- émission CO2 : 109 g/km
+- Puissance kilowatt : 55 kw
+- vitres avant éléctriques
+- airbag conducteur
+- siège conducteur réglable en hauteur
+- airbag coté passager
+- appuis-tête arrière
+- Airbags frontaux conducteur et passager (avec inhibition côté passager)
+- Bouclier dynamique avec masques de phares noirs
+- sans projecteurs antibrouillard
+- Boucliers non ton caisse
+- Boucliers ton caisse
+- Cache-bagages
+- Clé avec condamnation à distance
+- Enjoliveurs Moaï
+- Essuie-vitre à cadencement
+- Harmonie intérieure "Gris Tropic" et coiffe de planche de bord Gris Fumé
+- Jantes tôlées
+- Kit de regonflage
+- Peinture opaque
+- Pré-équipement audio 40 W (2 Tweeters
+- 2 HP)
+- Radio à affichage intégré et commande au volant en base
+- Radiosat 40W CD avec afficheur intégré
+- Rétroviseurs extérieurs ton carrosserie
+- Sellerie "Maco"
+- Sièges AR coulissants
+- Sièges AR indépendants
+- Sièges AR indépendants et coulissants

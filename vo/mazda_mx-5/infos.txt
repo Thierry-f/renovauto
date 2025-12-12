@@ -1,0 +1,43 @@
+title = Mazda MX-5 MX5 1.8 MZR Elegance
+prix = 13800
+annee = 2011
+km = 80000
+carburant = Essence
+boite = Manuelle
+puissance = 126 ch (8 CV)
+couleur = Blanc
+resume = Mazda MX-5 MX5 1.8 MZR Elegance cabriolet, blanc, 8 cv, 2 portes, première mise en circulation le 23/11/2011, garantie 3 mois.
+2 places
+options =
+- rétroviseurs électriques
+- vitres électriques
+- jantes alliage
+- auto-radio commandé au volant
+- volant cuir
+- climatisation
+- fermeture centralisée
+- ABS
+- airbags frontaux
+- alarme
+- anti-démarrage
+- anti-patinage - répartiteur électronique de freinage
+- puissance réelle : 126 ch
+- nombre de rapports : 5 vitesses
+- émission CO2 : 167 g/km
+- Puissance kilowatt : 93 kw
+- verrouillage à distance
+- airbag coté passager
+- Blocage différentiel
+- Ceintures de sécurité à prétensionneur
+- Contrôle dynamique de stabilité (DSC)
+- Double sortie d'échappement
+- Levier de frein à main cuir
+- Plaque de seuil en inox
+- Pommeau de levier de vitesse cuir
+- Prise Jack auxiliaire
+- Saute-vent anti-remous
+- Sellerie cuir
+- Sellerie tissu noir
+- Sièges AV chauffants
+- Système audio AM/FM RDS et 6HP
+- Système de freinage d'urgence BAS

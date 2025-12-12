@@ -1,0 +1,80 @@
+title = Kia Rio 1.2L 85 Active
+prix = 5500
+annee = 2014
+km = 186200
+carburant = Essence
+boite = Manuelle
+puissance = 85 ch (5 CV)
+couleur = Noir
+resume = Kia Rio 1.2L 85 Active berline, noir, 5 cv, 5 portes, première mise en circulation le 28/11/2014, garantie 3 mois.
+5 places
+options =
+- allumage automatique des feux
+- rétroviseurs électriques
+- jantes alliage
+- accoudoir central
+- volant réglable
+- bluetooth
+- radio CD USB MP3
+- climatisation automatique
+- détecteur de pluie
+- direction assistée
+- fermeture centralisée
+- rétroviseurs dégivrants
+- ABS
+- airbags frontaux
+- airbags latéraux
+- anti-démarrage
+- anti-patinage
+- phares antibrouillard
+- aide au freinage d'urgence
+- répartiteur électronique de freinage
+- fixation ISOFIX
+- airbags rideaux
+- verrouillage automatique des portes en roulant
+- régulateur de vitesse
+- limiteur de vitesse
+- puissance réelle : 85 ch
+- nombre de rapports : 5 vitesses
+- émission CO2 : 114 g/km
+- Puissance kilowatt : 63 kw
+- vitres avant éléctriques
+- prise 12V
+- verrouillage à distance
+- siège conducteur réglable en hauteur
+- Sieges arrières rabattable
+- USB
+- CD
+- prise audio auxiliaire
+- auto-radio : CD
+- réglages du volant : hauteur et profondeur
+- Allumage automatique des projecteurs en fonction de la luminosité
+- Applications type métal sur le pommeau de levier de vitesses
+- Appuis-tête AV et AR réglables en hauteur
+- Assistance au démarrage en côte (HAC)
+- Boucliers AV et AR couleur carrosserie
+- Cache-bagages
+- Ceintures de sécurité AR à 3 points (X3)
+- Ceintures de sécurité AV à prétensionneurs
+- limiteur d'effort et réglable en hauteur
+- Compteurs de tableau de bord rétro-éclairés "Supervision"
+- Condamnation des portes AR (sécurité enfants)
+- Contour de calandre aspect chrome
+- Contrôle de la pression des pneumatiques (TPMS)
+- Contrôle électronique de la trajectoire (ESC)
+- Eclairage statique d'intersection
+- Essuie-vitres AR avec lave-glace
+- Essuie-vitres AV avec intermittence
+- Feux AV diurnes et AR à technologie (LED)
+- Kit de dépannage en cas de crevaison
+- Lunette et vitres AR latérale surteintées
+- Ouverture de la trappe à essence de l'intérieur du véhicule
+- Pare-soleil avec miroirs de courtoisie éclairés (conducteur et passager)
+- Poches aumonières à l'AR des sièges AV
+- Poignées de portes extérieures couleur carrosserie
+- Radars de parking AR
+- Régulateur de couple et assistance au contre-braquage (VSM)
+- Rétroviseurs extérieurs couleur carrosserie
+- Sellerie Urban Vibe
+- Verrouillage automatique des portes asservi à la vitesse
+- Volant et pommeau de levier de vitesses gainés cuir
