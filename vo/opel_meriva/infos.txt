@@ -1,5 +1,5 @@
 title = Opel Meriva 1.4 Turbo Cosmo
-prix = 6200
+prix = 6000
 annee = 2013
 km = 135500
 carburant = Essence

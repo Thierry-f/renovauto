@@ -1,5 +1,5 @@
 title = Kia Rio 1.2L 85 Active
-prix = 5500
+prix = 5000
 annee = 2014
 km = 186200
 carburant = Essence
