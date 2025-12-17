@@ -1,0 +1,63 @@
+title = Ford B-MAX 1.0 EcoBoost 125 S&S Titanium
+prix = 9000
+annee = 2017
+km = 91200
+carburant = Essence
+boite = Manuelle
+puissance = 125 ch (6 CV)
+couleur = Grise
+resume = Ford B-MAX 1.0 EcoBoost 125 S&S Titanium monospace, grise, 6 cv, 5 portes, première mise en circulation le 30/06/2017, garantie 3 mois.
+options =
+ - 2 Fixations ISOFIX aux places AR
+ - 3 appuis-tête AR
+ - Accoudoir central AR
+ - Air conditionné automatique
+ - Airbag genoux conducteur
+ - Airbags frontaux conducteur et passager
+ - Airbags latéraux (Thorax)
+ - Airbags rideaux
+ - Alerte de ceinture de sécurité conducteur et passager AV
+ - Allumage automatique des feux et des essuie-glaces AV
+ - Audio Pack 6
+ - Banquette AR rabattable d'une main - 60/40
+ - Boîte à gants avec éclairage
+ - Chauffage auxiliaire
+ - Colonne de direction réglable en hauteur et en profondeur
+ - Contrôle vectoriel de couple
+ - Désactivation de l'airbag passager
+ - Dossier de siège passager rabattable
+ - Eclairage à extinction progressive
+ - Eclairage d'ambiance au plafond et au niveau du plancher
+ - Eclairage de courtoisie AV et AR
+ - Eclairage du coffre
+ - EcoMode (Système d'aide à la conduite économique)
+ - ESP + HLA (aide au démarrage en côte)
+ - Fermeture globale des 4 vitres électriques avec la télécommande
+ - Grille de calandre Noir Piano avec contour chromé
+ - Jantes alliage 16" 10 branches
+ - Lampes de lecture AV
+ - Lèche-vitres chromés
+ - My Key
+ - Ordinateur de bord
+ - Phares antibrouillard AV
+ - Plancher de coffre ajustable en hauteur
+ - Poignées de portes extérieures couleur carrosserie
+ - Pommeau de levier de vitesse gainé cuir
+ - Porte-lunettes
+ - Prise 12V à l'AR
+ - Projecteurs halogènes avec feux de jour à LED
+ - Régulateur de vitesse
+ - Rétroviseur de surveillance des enfants
+ - Rétroviseur intérieur électrochrome
+ - Rétroviseurs extérieurs réglables électriquement couleur carrosserie
+ - Siège conducteur avec poche aumônière
+ - Siège conducteur avec support lombaire à dossier inclinable et réglage 4 positions
+ - Siège conducteur réglable AV/AR et en hauteur manuellement
+ - Siège passager réglable AV/AR
+ - Système de surveillance de la pression des pneus
+ - Système intelligent de charge par régénération
+ - Tapis de sol AV et AR
+ - Trappe à carburant avec système Ford EasyFuel
+ - Verrouillage centralisé à distance avec 2 clés pliantes
+ - Vitres AV et AR électriques
+ - Volant gainé cuir
