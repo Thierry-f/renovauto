@@ -1520,7 +1520,16 @@ const rawVehicles = [
       "- Volant réglable en hauteur et en profondeur",
       "- Volant, pommeau et soufflet de levier de vitesses, frein à main cuir"
     ],
-    "images": [],
-    "mainImage": null
+    "images": [
+      "IMG_5717.jpeg",
+      "IMG_5718.jpeg",
+      "IMG_5719.jpeg",
+      "IMG_5720.jpeg",
+      "IMG_5721.jpeg",
+      "IMG_5722.jpeg",
+      "IMG_5723.jpeg",
+      "IMG_5724.jpeg"
+    ],
+    "mainImage": "IMG_5717.jpeg"
   }
 ];
