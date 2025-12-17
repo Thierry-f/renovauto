@@ -1,0 +1,34 @@
+title = Renault CLIO CAMPUS Clio 1.5 dCi 65 Campus Clim
+prix = 4200
+annee = 2005
+km = 97000
+carburant = Diesel
+boite = Manuelle
+puissance = 65 ch (4 CV)
+couleur = Grise
+resume = Renault CLIO CAMPUS Clio 1.5 dCi 65 Campus Clim Berline, Grise, 4 cv, 5 portes, première mise en circulation le 10/06/2005, garantie 3 mois.
+options =
+- 3 appuis-tête AR réglables en hauteur
+ - 3 ceintures de sécurité AR dynamiques à 3 points
+ - ABS et EBV
+ - Airbags frontaux conducteur et passager adapatifs
+ - Assistance au freinage d'urgence (A.F.U.)
+ - Baguette de planche de bord Muscade
+ - Banquette AR rabattable 1/3-2/3
+ - Ceinture conducteur réglable en hauteur
+ - Ceintures de sécurité AV et AR avec limiteurs d'effort et prétensionneurs (AR places latérales)
+ - Climatisation
+ - Condamnation électromotorisée des portes et télécommande radiofréquence
+ - Désactivation de l'airbag passager par clé
+ - Direction assistée électrique variable
+ - Enjoliveurs 14"
+ - Filtre à air de l'habitacle
+ - ISOFIX : Ancrages normalisés pour sièges enfants
+ - Phares double optique
+ - Poches aumonières au dos des sièges AV
+ - Radiosat 2x15 W CD
+ - Roues 14 pouces
+ - Stripping Campus
+ - Verrouillage automatique des ouvrants en roulant
+ - Vitres AV électriques
+ - Volant réglable en hauteur
