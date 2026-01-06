@@ -1,0 +1,36 @@
+title = MAZDA2 1.3L Elégance
+prix = 5200
+annee = 2008
+km = 109453
+carburant = Essence
+boite = Manuelle
+puissance = 75 ch (4 CV)
+couleur = Noir
+resume = MAZDA2 1.3L Elégance Berline, Noir, 4 cv, 3 portes, première mise en circulation le 17/09/2008, garantie 3 mois.
+options =
+ - ABS
+ - Airbags latéraux
+ - Airbags rideaux
+ - Amplificateur de freinage (EBA)
+ - Antenne radio
+ - Anti-démarrage électronique
+ - Banquette AR rabattable 60/40
+ - Bouclier couleur carrosserie
+ - Ceintures de sécurité AV avec prétensionneur
+ - Clé rétractable
+ - Climatisation
+ - Commandes radio au volant
+ - Direction assistée
+ - Double Airbags frontaux
+ - Pare-chocs couleur caisse
+ - Pare-soleil avec miroir intégré
+ - Poignées de portes couleur carrosserie
+ - Projecteurs halogènes à réglage manuel
+ - Réglage en hauteur du siège conducteur
+ - Répartiteur électronique de freinage (EBD)
+ - Rétroviseurs chauffants, réglages et rabattable électriquement
+ - Rétroviseurs extérieurs couleur carrosserie
+ - Système audio RDS et CD (MP3) avec prise axiliaire 4HP
+ - Système d'ancrage des sièges ISOFIX
+ - Verrouillage centralisé avec télécommande
+ - Vitres AV électriques à impulsion côté conducteur

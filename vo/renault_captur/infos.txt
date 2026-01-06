@@ -1,0 +1,43 @@
+title = Renault CAPTUR TCe 120 Energy Zen
+prix = 7800
+annee = 2016
+km = 113042
+carburant = Essence
+boite = Manuelle
+puissance = 120 ch (6 CV)
+couleur = Blanc
+resume = Renault CAPTUR TCe 120 Energy Zen Monospace, Gris, 6 cv, 5 portes, première mise en circulation le 27/07/2016, garantie 3 mois.
+options =
+ - 3 appuis-tête AR "virgule" réglable en hauteur
+ - ABS
+ - Airbags conducteur et passager
+ - Airbags frontaux et latéraux
+ - Alerte d'oubli de ceinture de sécurité côté conducteur
+ - Assistance au freinage d'urgence (A.F.U.)
+ - Boucliers AR
+ - Cache bagages
+ - Carte Renault "Mains libres"
+ - Ceinture centrale AR 3 points
+ - Ceintures AV réglables en hauteur
+ - Climatisation manuelle
+ - Condamnation électriques des portes
+ - Contrôle dynamique de trajectoire ESP
+ - Coques de rétroviseurs Noir (si monoton)
+ - Décors intérieurs Chrome
+ - Feux de jour à LED
+ - Harmonie foncée
+ - Housses de sièges fixes
+ - Jantes alliage 16" Adventure
+ - Lève-vitre AV électriques impulsionnel coté conducteur
+ - Lève-vitres AR électrique
+ - Peinture opaque
+ - Projecteurs antibrouillard
+ - Radio CD MP3, Bluetooth, prise USB et Jack
+ - Rétroviseurs extérieurs électriques dégivrants
+ - Sellerie fixe Gris Clair / Carbone Foncé
+ - Siège conducteur réglable en hauteur
+ - Système de surveillance de la pression des pneus
+ - Système Ecomode
+ - Système ISOFIX aux places latérales AR et passager AV
+ - Tiroir Easy-Life Ivoire
+ - Volant cuir
