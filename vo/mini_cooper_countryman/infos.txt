@@ -1,0 +1,98 @@
+title = Mini COUNTRYMAN R60 -  Countryman D 143 ch Cooper S
+prix = 8000
+annee = 2013
+km = 216000
+carburant = Diesel
+boite = Manuelle
+puissance = 143 ch (7 CV)
+couleur = Blanc
+resume = Mini COUNTRYMAN R60 -  Countryman D 143 ch Cooper S Berline, Blanc, 7 cv, 5 portes, première mise en circulation le 22/01/2013, garantie 3 mois.
+options =
+
+ - 3ème feu de stop
+ - ABS et assistance de freinage
+ - Airbag conducteur et passager
+ - Airbags de tête
+ - Airbags frontaux pour conducteur et passager AV
+ - Airbags latéraux AV
+ - Anti-démarrage électronique
+ - Appuis-têtes AV et AR réglables en hauteur
+ - Autoradio MINI CD avec prise AUX-IN et 5HP compatible MP3
+ - Bagues décoratives Silver autour du compteur de vitesse central
+ - Baguettes de seuils de portes avec inscription du modèle
+ - Banquette AR 3 places coulissante 60/40 avec dossiers rabattables 40/20/40
+ - Becquet de toit
+ - Becquet de toit spécifique Cooper S
+ - Boîte manuelle 6 rapports
+ - Bouton de démarrage "Start/Stop"
+ - Buses de lave-glace et rétroviseurs extérieurs dégivrants
+ - Calandre au contour chromé avec grille façon "nid d'abeilles"
+ - Ceintures de sécurité à 3 points à toutes les places
+ - Center Rail court
+ - Center Rail court incluant 2 éléments de séparation
+ - Climatisation automatique
+ - Climatisation automatique avec filtre à charbon et boîte à gants réfrigérée
+ - Climatisation automatique avec filtre à charbon et boîte à gants réfrigérée avec commande automatiqu e de recyclage d'air d'habitacle (AUC)
+ - Contrôle du freinage en courbe CBC
+ - Contrôle Dynamique de la motricité DTC
+ - Contrôle Dynamique de la motricité DTC, y compris blocage électronique de différentiel ELDC
+ - Contrôle Dynamique de stabilité DSC
+ - Contrôle Dynamique de stabilité DSC + Dynamic Traction Control DTC + Electronic Differential Lock Control EDLC
+ - Contrôle Dynamique de stabilité DSC et assistant de démarrage en côte
+ - Coques de rétroviseurs extérieurs couleur carrosserie
+ - Désactivation de l'airbag passager à l'AV
+ - Deuxième clé radiocommandée
+ - Direction à assistance électrique variable en fonction de la vitesse
+ - Double sortie d'échappement gauche et droite chromée
+ - Ecrous de roues antivol
+ - Feux de stop dynamiques
+ - Filtre à particules
+ - Fixations ISOFIX pour banquette AR
+ - Fonction d'arrêt et de redémarrage automatique du moteur
+ - Freins à disques AV et AR ventilés à l'AV
+ - Indicateur de changement de rapport
+ - Indicateur de perte de pression des pneumatiques RPA
+ - Inserts décoratifs et cadres ellipsoïdaux des panneaux de porte Dark Anthracite
+ - Jantes en alliage léger 17'' design "5-Star Double Spoke"
+ - Jantes en alliage léger 17'' design "5-Star Triangle Spoke" Silver 7Jx17" avec pneumatiques 205/55 R17
+ - Lève-vitres électriques AV et AR avec commande à impulsion à l'AV et protection anti-pincement
+ - MINI Mobility System
+ - Ordinateur de bord
+ - Ordinateur de bord multifonctions
+ - Ouïes latérales Dark Anthracite "S" avec répétiteurs de clignotants blancs intégrés
+ - Pare-chocs AV/AR dans la couleur de la carrosserie
+ - Pédalier et repose-pied avec inserts en Inox
+ - Planche de bord noire avec insert chromé sur le volant
+ - Poignées de portes chromées
+ - Poignées intérieures de portes chromées
+ - Pommeau de levier de vitesses en cuir
+ - Porte-boissons AV (x2)
+ - Prise 12V entre les porte-gobelets AV
+ - Prise d'air supplémentaire au centre de la calandre
+ - Projecteurs antibrouillard AV
+ - Projecteurs AV et feux AR au contour chromé
+ - Rails de toit Dark Anthracite
+ - Réglage en hauteur du siège passager AV
+ - Réglage manuel de la portée des projecteurs
+ - Rétroviseurs extérieurs à réglage électrique avec miroir asphérique côté conducteur
+ - Sellerie tissu "Diagonal Track"
+ - Siège conducteur réglable en hauteur
+ - Siège passager réglable en hauteur
+ - Sièges AV à réglage manuel en longueur et en inclinaison
+ - Sièges AV Sport
+ - Système d'aide au stationnement PDC à l'AR
+ - Système de maintenance intelligent Condition Based Service (CBS)
+ - Système de récupération de l'énergie au freinage
+ - Teinte d'habitacle Carbon Black
+ - Teinte de carrosserie unie
+ - Toit couleur carrosserie
+ - Toit et rétroviseurs blancs
+ - Toit et rétroviseurs noirs
+ - Touches multifonctions sur le volant avec régulateur de vitesse
+ - Triangle de présignalisation avec trousse de premiers secours
+ - Verrouillage automatique des portes dès 15 Km/h environ
+ - Verrouillage centralisé des portes, du coffre et de la trappe à carburant
+ - Vitres teintées
+ - Volant Cuir 2 branches réglable en hauteur et en profondeur
+ - Volant Cuir Sport 3 branches
+ - Volant réglable en hauteur et en profondeur
