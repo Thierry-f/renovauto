@@ -1,5 +1,5 @@
 title = Ford B-MAX 1.0 EcoBoost 125 S&S Titanium
-prix = 9000
+prix = 7500
 annee = 2017
 km = 91200
 carburant = Essence

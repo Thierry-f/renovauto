@@ -1,5 +1,5 @@
 title = Citroën C4 Picasso BlueHDi 120 SetS Intensive
-prix = 8200
+prix = 7500
 annee = 2016
 km = 138600
 carburant = Diesel

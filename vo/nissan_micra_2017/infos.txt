@@ -1,5 +1,5 @@
 title = Nissan Micra 1.2 - 80 Lolita Lempicka
-prix = 6500
+prix = 6000
 annee = 2013
 km = 140600
 carburant = Essence

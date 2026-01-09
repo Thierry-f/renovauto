@@ -1,5 +1,5 @@
 title = Nissan Qashqai 1.6 dCi 130 Stop/Start Connect Edition
-prix = 9200
+prix = 8500
 annee = 2014
 km = 181390
 carburant = Diesel

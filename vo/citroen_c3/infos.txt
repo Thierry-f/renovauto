@@ -1,5 +1,5 @@
 title = Citroën C3 1.4 VTi 95 Selection
-prix = 7000
+prix = 6000
 annee = 2012
 km = 125700
 carburant = Essence

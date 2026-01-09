@@ -1,5 +1,5 @@
 title = Peugeot 308 1.6 VTi 120ch Active
-prix = 6800
+prix = 6000
 annee = 2013
 km = 101000
 carburant = Essence

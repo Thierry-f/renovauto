@@ -1,5 +1,5 @@
 title = Ford Fiesta 1.0 EcoBoost 125 SetS Titanium
-prix = 6800
+prix = 6000
 annee = 2013
 km = 121300
 carburant = Essence
