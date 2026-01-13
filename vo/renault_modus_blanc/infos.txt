@@ -1,0 +1,38 @@
+title = RENAULT MODUS TCE 100 eco2 Expression
+prix = 5000
+annee = 2008
+km = 98117
+carburant = Essence
+boite = Manuelle
+puissance = 100 ch (6 CV)
+couleur = Noir
+resume = RENAULT MODUS TCE 100 eco2 Expression Monospace, Blanc, 6 cv, 5 portes, première mise en circulation le 26/06/2008, garantie 3 mois.
+options =
+ - 2 Airbags frontaux conducteur et passager adaptatifs
+ - 2 Airbags latéraux thorax conducteur et passager
+ - 2 clés avec condamnation et décondamnation à distance (radiofréquence)
+ - ABS avec EBV et système d'assistance au freinage d'urgence
+ - Airbags latéraux AV
+ - Appuis-tête AR
+ - Appuis-tête AV réglables en hauteur
+ - Banquette AR rabattable 1/3-2/3
+ - Bouclier ton caisse sur teintes opaques
+ - Ceintures de sécurité AV réglables en hauteur, avec double prétensionneur
+ - Climatisation manuelle
+ - Commandes au volant
+ - Condamnation des portes à distance
+ - Kit de regonflage
+ - Lève-vitre AV électrique à impulsion côté conducteur
+ - Peinture opaque
+ - Poignées extérieures ton caisse
+ - Radiosat 40W CD
+ - Rangements sur planche de bord
+ - Rétroviseurs électriques ton caisse
+ - Rétroviseurs extérieurs électriques
+ - Rétroviseurs ton carrosserie
+ - Roues tôlées 15 pouces
+ - Sellerie Duo
+ - Siège conducteur réglable en hauteur
+ - Siège passager avec retenue d'objet
+ - Trappes de rangement sous plancher AV
+ - Vitre conducteur impulsionnelle
