@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Rénov'auto - Accueil</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="logo">
+        <img class="logo-img" src="assets/img/logo.png" alt="Rénov'auto" />
+        <div class="logo-text">
+          <span class="logo-subtitle">Véhicules d'occasion & centre auto</span>
+        </div>
+      </div>
+      <nav class="main-nav">
+        <a href="index.html" class="active">Accueil</a>
+        <a href="centre_auto.html">Centre auto</a>
+        <a href="ethanol.html">Éthanol</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-inner">
+        <div class="hero-text">
+          <h1>Garage agréé – Carrosserie, mécanique</h1>
+          <p>
+              Garage agréé spécialisé dans la mécanique, la carrosserie
+              et la vente de véhicules d’occasion révisés et garantis.
+              Nous assurons un service complet pour entretenir, réparer
+              votre véhicule en toute confiance.
+          </p>
+          <ul class="hero-highlights">
+              <li>✔ Atelier mécanique <a href="tel:33669750586">0669750586</a></li>
+              <li>✔ Réparations carrosserie et peinture <a href="tel:33622501544">0622501544</a></li>
+              <li>✔ Véhicules d’occasion contrôlés et prêts à partir <a href="tel:33614031303">0614031303</a></li>
+          </ul>
+          <a class="btn primary" href="centre_auto.html">Voir les véhicules</a>
+        </div>
+        <div class="hero-cards">
+          <div class="hero-card">
+            <p class="hero-label">Horaires</p>
+            <p>Lun–Ven : 8h30–18h00<br />Sam : 9h00–12h00</p>
+          </div>
+          <div class="hero-card">
+            <p class="hero-label">Contact</p>
+            <p>932 Avenue Emile Bodin 13600 La Ciotat
+              <br />
+              <a href="mailto:renov.auto13@gmail.com">renov.auto13@gmail.com</a>
+              <br />
+              <a href="tel:33442715840">0442715840</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="home-section">
+      <div class="container">
+        <div class="section-header">
+          <h2>Nos véhicules du moment</h2>
+          <p>Une sélection de quelques véhicules parmi le parc.</p>
+        </div>
+        <div id="home-vo-list" class="vo-grid"></div>
+        <div class="section-footer">
+          <a class="btn ghost" href="centre_auto.html">Voir tout le parc</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="home-section alt">
+      <div class="container features-grid">
+        <div class="feature-card">
+          <h3>Entretien & révision</h3>
+          <p>
+            Vidange, freins, pneus, diagnostics… nous suivons votre véhicule après l'achat.
+          </p>
+        </div>
+        <div class="feature-card">
+          <h3>Préparation des véhicules</h3>
+          <p>
+            Nettoyage complet, contrôle, mise à niveau des fluides : véhicules prêts à partir.
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>© <span id="year"></span> Rénov'auto – La Ciotat.</p>
+    </div>
+  </footer>
+
+    <script src="assets/js/main.js" defer></script>
+    <script src="assets/js/vo_data.js" defer></script>
+    <script src="assets/js/index_page.js" defer></script>
+</body>
+</html>
