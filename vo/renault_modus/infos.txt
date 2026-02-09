@@ -1,0 +1,63 @@
+title = Renault Modus 1.6 16V Luxe Privilège
+prix = 3500
+annee = 2005
+km = 142300
+carburant = Essence
+boite = Manuelle
+puissance = 113 ch (7 CV)
+couleur = Bleu
+resume = Renault Modus 1.6 16V Luxe Privilège monospace, bleue, 7 cv, 5 portes, première mise en circulation le 19/12/2005, garantie 3 mois.
+5 places
+options =
+- allumage automatique des feux
+- rétroviseurs électriques
+- jantes alliage
+- ordinateur de bord
+- volant réglable
+- radio CD
+- détecteur de pluie
+- direction assistée
+- ABS
+- airbags frontaux
+- airbags latéraux
+- phares antibrouillard
+- aide au freinage d'urgence
+- fixation ISOFIX
+- airbags rideaux
+- régulateur de vitesse
+- limiteur de vitesse
+- puissance réelle : 113 ch
+- nombre de rapports : 5 vitesses
+- émission CO2 : 163 g/km
+- Puissance kilowatt : 83 kw
+- vitres avant éléctriques
+- siège conducteur réglable en hauteur
+- Vitres arrières électriques
+- airbag coté passager
+- filtre à pollen
+- plafonnier avant
+- indicateur de température extérieur
+- réglages du volant : hauteur
+- Banquette AR coulissante TRIPTIC
+- Boîte à gants de 11 litres
+- Ceintures de sécurité AV réglables en hauteur
+- Commande des portes électromagnétique
+- Télécommande radiofréquence
+- Condamnation automatique des ouvrants en roulant
+- Eclairage d'accompagnement extérieur
+- Eclairage de la boîte à gants
+- Essuie-vitre AV avec 2 balais antagonistes
+- Filtre à air de l'habitacle
+- Hamac de plage AR assurant l'occultation du coffre
+- Miroirs de courtoisie occultables conducteur et passager
+- Pack Rangement
+- Phares double optique
+- Poches aumonières
+- Projecteurs avec feux additionnels de virage
+- Range lunettes pour conducteur
+- Recyclage de l'air
+- Rétro. ext. cond. asphérique pour rédiure les angles morts
+- Sécurité enfant électrique à partir du poste de conduite
+- Spot de lecture passager
+- Vitre conducteur à impulsion avec anti-pincement
+

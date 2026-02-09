@@ -1,0 +1,40 @@
+title = Toyota Aygo 1.0 VVT-i x
+prix = 5500
+annee = 2017
+km = 132700
+carburant = Essence
+boite = Manuelle
+puissance = 69 ch (4 CV)
+couleur = Blanc
+resume = Toyota Aygo 1.0 VVT-i x berline, blanc, 4 cv, 3 portes, première mise en circulation le 11/04/2017, garantie 3 mois.
+5 places
+options =
+- phares de jour LED
+- jantes classiques
+- volant réglable
+- aide au démarrage en pente
+- direction assistée
+- ABS
+- airbags frontaux
+- airbags latéraux
+- ESP
+- fixation ISOFIX
+- airbags rideaux
+- puissance réelle : 69 ch
+- nombre de rapports : 5 vitesses
+- émission CO2 : 95 g/km
+- Puissance kilowatt : 51 kw
+- Sieges arrières rabattable
+- appuis-tête arrière
+- réglages du volant : hauteur
+- Becquet AR
+- Boîte manuelle 5 vitesses
+- Coques de rétroviseurs noires
+- Indicateur de perte de pression des pneus
+- Insert de pare-chocs AR Noirs
+- Peinture Blanc Pur
+- Poignées de portes extérieures noires
+- Porte-gobelets AV et AR
+- Rappel sonore d'oubli de ceinture de sécurité AV et AR
+- Sellerie tissu gris foncé
+- X frontal et extension latérale du X frontal Noirs

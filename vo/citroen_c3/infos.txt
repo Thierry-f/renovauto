@@ -1,0 +1,35 @@
+title = Citroën C3 1.4 VTi 95 Selection
+prix = 6000
+annee = 2012
+km = 125700
+carburant = Essence
+boite = Manuelle
+puissance = 95 ch (5 CV)
+couleur = Blanc
+resume = Citroën C3 1.4 VTi 95 Selection Berline, Blanc, 5 cv, 5 portes, première mise en circulation le 26/01/2012, garantie 3 mois.
+options =
+- ABS + REF + AFU
+ - Airbags frontaux et latéraux
+ - Bandeau de planche de bord Noir Brillant ou Hickory en fonction de la teinte caisse
+ - Banquette AR fractionnable 2/3 - 1/3
+ - Climatisation manuelle
+ - Condamnation centralisée avec 2 PLIP HF
+ - Connecting Box (prise Jack, prise USB et Kit mains libres Bluetooth)
+ - Coques de rétroviseurs extérieurs chromées
+ - Direction assistée
+ - Enjoliveurs de façade centrale et de crosse de porte Noir Brillant
+ - Garnissage Rayados recoloré (Mistral/Hickory)
+ - Jantes alliage 16" Valonga
+ - Kit de dépannage provisoire de pneumatiques
+ - Lève-vitres AV électriques
+ - Ordinateur de bord
+ - Pack Chrome
+ - Pack Sécurité
+ - Planche de bord thermogainée avec Bandeau Gris Lion
+ - Projecteurs antibrouillard
+ - Rehausse de siège conducteur
+ - Rétroviseurs électriques
+ - Roue de secours galette
+ - Système Audio CD RDS MP3 6 HP avec prise Jack
+ - Volant croûte de cuir
+ - Volant mousse réglable en hauteur et en profondeur

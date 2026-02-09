@@ -1,0 +1,75 @@
+title = Nissan Qashqai 1.6 dCi 130 Stop/Start Connect Edition
+prix = 8500
+annee = 2014
+km = 181390
+carburant = Diesel
+boite = Manuelle
+puissance = 130 ch (7 CV)
+couleur = Noir
+resume = Nissan Qashqai 1.6 dCi 130 Stop/Start Connect Edition tout-terrain, noir, 7 cv, 5 portes, première mise en circulation le 31/07/2014, garantie 3 mois.
+5 places
+options =
+Audio - Télécommunications :
+- Bluetooth
+- CD
+- Boîte de vitesses manuelle 6 vitesses
+- Essuie-glace AV à déclenchement automatique
+- allumage automatique des feux
+- limiteur de vitesse
+- régulateur de vitesse
+- Contour des vitres latérales chromé
+- Jantes alliage 18"
+- Radars de stationnement AV et AR
+- Rétroviseurs extérieurs rabattables automatiquement
+- Vitres latérales AR et vitre de hayon surteintées
+- Vue panoramique 360°
+- jantes : alliage
+- jantes alliage
+- phares halogènes
+- rétroviseurs rabattables
+- rétroviseurs électriques
+- toit panoramique
+- Ecran TFT couleur HD 5"
+- Fermeture et ouverture centralisées des portes à distance
+- Pare-soleil conducteur et passager avec miroir de courtoisie
+- Plancher de coffre modulable
+- Rétroviseur intérieur électrochromatique
+- Siège conducteur à réglage lombaire
+- Volant et levier de vitesse gainés cuir
+- Accoudoir conducteur
+- Vitres arrières électriques
+- accoudoir central arrière
+- climatisation : automatique
+- climatisation multi zone
+- direction assistée
+- réglages du volant : hauteur et profondeur
+- sieges reglables en hauteur
+- siège conducteur réglable en hauteur
+- vitres avant éléctriques
+- Ceintures de sécurité AR 3 points à enrouleur
+- Eclairage d'ambiance intérieur
+- Frein à main électrique
+- Nissan Connect
+- Poignées de portes extérieures couleur carrosserie
+- Pommeau de levier de vitesses et volant gainés cuir
+- Protection de bas de caisse noire
+- Réservoir de 55 litres
+- Rétroviseurs extérieurs à réglages électriques et dégivrants
+- Système "Châssis Control"
+- Système antidémarrage
+- Sieges arrières rabattable
+- nombre de rapports : 6 vitesses
+- siège passager réglable
+- volant réglable
+- Ceintures de sécurité AV 3 points avec prétensionneur et limiteur d'effort
+- Feux diurnes à LED avec signature lumineuse
+- NBAS Amplificateur de freinage d'urgence
+- Nissan AVM
+- Nissan Safety Shield
+- Sièges AV anti-fatigue
+- Système d'ouverture et de démarrage sans clé "Intelligent key"
+- Classe Crit'air : 2
+- Puissance kilowatt : 96 kw
+- USB
+- puissance réelle : 130 ch
+- émission CO2 : 115 g/km

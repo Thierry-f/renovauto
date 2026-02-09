@@ -1,0 +1,57 @@
+title = Nissan Micra 1.2 - 80 Lolita Lempicka
+prix = 6000
+annee = 2013
+km = 140600
+carburant = Essence
+boite = Manuelle
+puissance = 80 ch (4 CV)
+couleur = Blanc
+resume = Nissan Micra 1.2 - 80 Lolita Lempicka berline, blanc, 4 cv, 5 portes, première mise en circulation le 22/11/2017, garantie 3 mois.
+5 places
+options =
+- puissance réelle : 80 ch
+- nombre de rapports : 5 vitesses
+- émission CO2 : 115 g/km
+- Puissance kilowatt : 59 kw
+Audio - Télécommunications :
+- Bluetooth
+- Prise auxiliaire pour lecteur MP3
+- Système mains libres Bluetooth
+- Allumage automatique des feux
+- Essuie-glace AV à déclenchement automatique
+- Indicateur de changement de vitesses
+- Becquet de toit
+- Entourage de calandre chromé
+- Radar de recul
+- Rétroviseurs extérieures rabattables électriquement
+- Rétroviseurs extérieurs dégivrants
+- Rétroviseurs extérieurs à réglage électrique
+- Accoudoir conducteur
+- Boîte à gants
+- Boîte à gants supérieure
+- Cache-bagages amovible
+- Climatisation automatique
+- Commandes au volant (audio
+- Direction assistée asservie à la vitesse
+- Dossier banquette AR rabattable 60/40
+- Eclairage de l'habitacle
+- Fermeture et ouverture centralisée des portes à distance
+- Ordinateur de bord multi-fonctions
+- Pare-soleil côtés conducteur et passager avec miroir de courtoisie
+- Poches aumonières au dos des sièges AV
+- Pommeau de levier de vitesse cuir
+- Porte-gobelets AV (x2) et AR (x1)
+- Prise 12V
+- Siège conducteur réglable en hauteur
+- Vitres AV électriques
+- Volant gainé cuir
+- Volant réglable en hauteur
+- Airbags frontaux AV (déconnectable côté passager)
+- Airbags latéraux AV
+- Airbags rideaux
+- ESP
+- Feu antibrouillard AR
+- Phares antibrouillard AV
+- Roue de secours temporaire
+- Système de contrôle de la pression des pneus
+- TCS (antipatinage)

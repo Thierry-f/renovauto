@@ -1,0 +1,28 @@
+title = Opel Meriva 1.4 Turbo Cosmo
+prix = 5500
+annee = 2013
+km = 135500
+carburant = Essence
+boite = Manuelle
+puissance = 120 ch (7 CV)
+couleur = Blanc
+resume = Opel Meriva 1.4 Turbo Cosmo monospace, blanc, 7 cv, 5 portes, première mise en circulation le 15/01/2013, garantie 3 mois.
+5 places
+options =
+- vitres électriques
+- phares de jour (feux diurne)
+- jantes classiques
+- ordinateur de bord
+- volant multifonctions
+- volant réglable
+- radio CD
+- climatisation
+- direction assistée
+- fermeture centralisée
+- ABS
+- airbags frontaux
+- airbags latéraux
+- ESP
+- frein parking automatique
+- fixation ISOFIX
+- régulateur de vitesse

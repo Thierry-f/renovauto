@@ -1,0 +1,74 @@
+title = Volkswagen GOLF 1.4 16S TSI 140 Confortline
+prix = 7000
+annee = 2007
+km = 102000
+carburant = Essence
+boite = Manuelle
+puissance = 140 ch (8 CV)
+couleur = Bleu
+resume = Volkswagen GOLF 1.4 16S TSI 140 Confortline Berline, Bleu, 8 cv, 5 portes, première mise en circulation le 31/07/2007, garantie 3 mois.
+options =
+- 2 porte-boissons à l'avant avec volet et 2 porte-boissons à l'AR escamotable
+ - 2 spots de lecture AV avec cerclage chromé et 2 spots AR
+ - 4 jantes alliage léger "Atlanta" 6.5Jx16" avec écrous antivol et pneumatiques 205/55 R16
+ - 4 oeilletons de fixation dans le coffre
+ - ABS et EBV
+ - Accoudoir central AV avec 2 porte-gobelets intégrés et 2 bouches d'aération derrière l'accoudoir pour les passager AR
+ - Activation automatique des feux de détresse lors d'un freinage d'urgence
+ - Affichage de la périodicité d'entretien
+ - Airbag rideaux AV/AR
+ - Antenne AR de toit
+ - Appuis-tête AR réglables en hauteur
+ - Appuis-tête réglables en hauteur avec sécurité optimisée sur les sièges conducteur et passager AV
+ - ASR-MSR systèmes d'antipatinage
+ - Aumônières au dos des sièges AV
+ - Avertisseur sonore de non-extinction des phares
+ - Baguettes frontales et latérales de protection et poignées dans la couleur de carrosserie
+ - Banquette AR rabattable 2/3-1/3 avec accoudoir central
+ - Boîte à gants éclairée et réfrigérée
+ - Carrosserie entièrement galvanisée
+ - Catadioptre dans la partie inférieure des portières
+ - Ceintures de sécurité AR 3 points d'ancrage
+ - Ceintures de sécurité AV 3 points à enrouleur réglables en hauteur avec prétensionneurs
+ - Climatisation à régulation automatique Climatronic
+ - Commande d'ouverture de trappe à carburant de l'intérieur
+ - Console de pavillon avec un compartiment de rangement fermé
+ - Correcteur électronique de trajectoire ESP
+ - Direction électromécanique à assistance variable en fonction de la vitesse
+ - Double Airbag frontal AV (Airbag passager désactivable par clef)
+ - Double airbag latéral AV
+ - Easy Entry
+ - Eclairage bleu sur les instruments et rouge sur les commandes
+ - Eclairage du coffre
+ - EDS
+ - Essuie-glace AV avec intermittence
+ - Inserts Look Alu sur le tableau de bord et les contreportes AV
+ - Klaxon 2 tons
+ - Lave essuie-glace intermittent AR
+ - Miroir de courtoisie éclairé sur les pare-soleil
+ - Ordinateur de bord avec grand écran
+ - Pack Fumeur avec cendriers AV/AR, allume-cigare AV
+ - Pack Luminosité (allumage automatique de feux
+ - Pare-chocs couleur caisse
+ - Plafonnier à temporisation
+ - Porte-bouteille (1.0L) dans les portières AV
+ - Préparation Isofix
+ - Prise 12V dans le coffre à bagages
+ - Protection antidémarrage Immotronic
+ - Radio CD fonction MP3 RCD 300  4x20W et 8 HP AV
+ - Régulateur de vitesse
+ - Rétroviseurs dégivrants
+ - Rétroviseurs extérieurs asphérique côté conducteur
+ - Rétroviseurs extérieurs couleur carrosserie
+ - Rétroviseurs extérieurs incluant le rappel de clignotant
+ - Rétroviseurs extérieurs rabattables électriquement
+ - Roue de secours à encombrement réduit
+ - Sellerie tissu "Opéra"
+ - Sièges AV Confort réglables en hauteur avec réglage lombaire
+ - Verrouillage centralisé avec télécommande à fréquence radio par clé rétractable
+ - Vitres athermiques teintées vertes
+ - Vitres AV électriques
+ - Volant 3 branches réglable en hauteur et en profondeur
+ - Volant multifonctions 3 branches en cuir Avec pommeau de levier de vitesses et poignée de frein à main gainés cuir (permet de piloter la radio)
+ - Volant réglable en hauteur et en profondeur
+ - Volant, pommeau et soufflet de levier de vitesses, frein à main cuir

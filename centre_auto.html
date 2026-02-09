@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Rénov'auto - Voitures d'occasion</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="logo">
+        <img class="logo-img" src="assets/img/logo.png" alt="Rénov'auto" />
+        <div class="logo-text">
+          <span class="logo-subtitle">Véhicules d'occasion & centre auto</span>
+        </div>
+      </div>
+      <nav class="main-nav">
+        <a href="index.html">Accueil</a>
+        <a href="centre_auto.html" class="active">Centre auto</a>
+        <a href="ethanol.html">Éthanol</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-header">
+      <div class="container">
+        <h1>Nos véhicules d'occasion</h1>
+        <p>Sélectionnez vos critères pour filtrer la liste.</p>
+      </div>
+    </section>
+
+    <section class="filters-section">
+      <div class="container">
+        <form id="filters-form" class="filters-grid" onsubmit="return false;">
+          <div class="filter-group">
+            <label for="price-min">Prix min (€)</label>
+            <input type="number" id="price-min" placeholder="ex: 3000" />
+          </div>
+          <div class="filter-group">
+            <label for="price-max">Prix max (€)</label>
+            <input type="number" id="price-max" placeholder="ex: 20000" />
+          </div>
+          <div class="filter-group">
+            <label for="km-max">Kilométrage max</label>
+            <input type="number" id="km-max" placeholder="ex: 150000" />
+          </div>
+          <div class="filter-group">
+            <label for="year-min">Année min</label>
+            <input type="number" id="year-min" placeholder="ex: 2010" />
+          </div>
+          <div class="filter-group">
+            <label for="fuel">Carburant</label>
+            <select id="fuel">
+              <option value="">Tous</option>
+              <option value="Essence">Essence</option>
+              <option value="Diesel">Diesel</option>
+            </select>
+          </div>
+          <div class="filter-actions">
+            <button type="button" id="apply-filters" class="btn primary small">Appliquer</button>
+            <button type="button" id="reset-filters" class="btn ghost small">Réinitialiser</button>
+          </div>
+        </form>
+      </div>
+    </section>
+
+    <section class="vo-section">
+      <div class="container">
+        <div class="vo-header-row">
+          <div class="section-header">
+            <h2>Nos véhicules</h2>
+            <p id="vo-count"></p>
+          </div>
+          <div class="sort-group">
+            <label for="sort-by">Trier par</label>
+            <select id="sort-by">
+              <option value="price-asc">Prix croissant</option>
+              <option value="price-desc">Prix décroissant</option>
+              <option value="km-asc">Kilométrage croissant</option>
+              <option value="km-desc">Kilométrage décroissant</option>
+              <option value="year-desc">Année récente</option>
+              <option value="year-asc">Année ancienne</option>
+            </select>
+          </div>
+        </div>
+
+        <div id="vo-list" class="vo-grid"></div>
+        <div id="vo-empty" class="vo-empty hidden">
+          <p>Aucun véhicule ne correspond à vos critères.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>© <span id="year"></span> Rénov'auto – La Ciotat.</p>
+    </div>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/vo_data.js"></script>
+  <script src="assets/js/centre_auto.js"></script>
+</body>
+</html>

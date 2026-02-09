@@ -1,0 +1,35 @@
+title = Citroën C3 PICASSO -  HDi 90 Airdream Exclusive
+prix = 3500
+annee = 2009
+km = 264300
+carburant = Diesel
+boite = Manuelle
+puissance = 90 ch (5 CV)
+couleur = Rouge
+resume = Citroën C3 PICASSO -  HDi 90 Airdream Exclusive Monospace, Rouge, 5 cv, 5 portes, première mise en circulation le 28/12/2009, garantie 3 mois.
+options =
+ - ABS + REF + AFU
+ - Accoudoir central AV
+ - Airbags frontaux et latéraux
+ - Baguettes latérales noires avec jonc chromé
+ - Bandeaux de boucliers peints couleur caisse
+ - Banquette AR fractionnable 2/3 1/3 et coulissante
+ - Condamnation centralisée avec 2 PLIP HF
+ - Décors chrome sur le bouclier AV et sur enjoliveur de plaque de police
+ - Direction assistée
+ - Dossiers AR inclinables
+ - Jantes alliage 16"
+ - Lève-vitres AV électriques
+ - Ordinateur de bord
+ - Pack Climatisation automatique
+ - Pack Sécurité
+ - Pack Urbain
+ - Parfumeur d'ambiance
+ - Plancher de coffre mobile
+ - Projecteurs antibrouillard
+ - Rehausse de siège conducteur
+ - Rétroviseurs électriques
+ - Système Audio CD RDS MP3 6 HP avec prise Jack
+ - Tissu BRISE et accompagnement Velours Misteco Mistral ou Matinal
+ - Volant cuir
+ - Volant mousse réglable en hauteur et en profondeur

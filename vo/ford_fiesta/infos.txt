@@ -1,0 +1,53 @@
+title = Ford Fiesta 1.0 EcoBoost 125 SetS Titanium
+prix = 6500
+annee = 2013
+km = 121300
+carburant = Essence
+boite = Manuelle
+puissance = 125 ch (6 CV)
+couleur = Grise
+resume = Ford Fiesta 1.0 EcoBoost 125 SetS Titanium berline, gris clair, 6 cv, 3 portes, première mise en circulation le 30/10/2013, garantie 3 mois.
+5 places
+options =
+- EcoMode - Indicateur de changement de vitesse
+- Système Stop & Start
+- Stop & Start
+- allumage automatique des feux
+- régulateur de vitesse
+- Becquet AR couleur carrosserie
+- Entourage du levier de vitesses façon chrome
+- Grille de calandre chromée
+- Ligne chromée à la base des vitres latérales
+- jantes : alliage
+- jantes alliage
+- Air conditionné automatique
+- Colonne de direction réglable en hauteur et en profondeur
+- Essuie-glace AV automatique et Rétroviseur électrochromique
+- Ordinateur de bord avec EcoMode
+- Poches aumonières au dos des sièges AV
+- Rétroviseur intérieur électrochromique
+- Siège conducteur réglable AV et AR
+- Siège conducteur à réglage lombaire
+- Vitres AV électriques à impulsion haut/bas
+- Volant et frein à main gainés de cuir
+- accoudoir central
+- chauffage stationnaire
+- direction assistée
+- fermeture centralisée
+- ordinateur de bord
+- prise 12V
+- siège conducteur réglable en hauteur
+- vitres avant éléctriques
+- vitres surteintées
+- Airbags frontaux conducteur et passager
+- Aide au demarrage en pente
+- Airbags rideaux
+- ESP
+- airbag coté passager
+- airbag genoux conducteur
+- airbags frontaux
+- airbags latéraux
+- contrôle pression des pneus
+- fixations ISOFIX
+- kit de dépannage pneumatique
+- phares antibrouillard

@@ -1,0 +1,52 @@
+title = Citroën C4 Picasso BlueHDi 120 SetS Intensive
+prix = 7500
+annee = 2016
+km = 138600
+carburant = Diesel
+boite = Manuelle
+puissance = 120 ch (6 CV)
+couleur = Grise
+resume = Citroën C4 Picasso BlueHDi 120 SetS Intensive monospace, grise, 6 cv, 5 portes, première mise en circulation le 16/02/2016, garantie 3 mois.
+5 places
+options =
+- ABS + REF + AFU
+- Accès et démarrage mains libres
+- Accoudoirs centraux AV réglables en inclinaison
+- Aérateurs bizone en rang 2
+- Aide au démarrage en pente
+- Aide au stationnement AR
+- Aide au stationnement AV
+- Airbags frontaux AV, latéraux AV et rideaux
+- Allumage automatique des feux de croisement
+- Climatisation automatique bizone
+- Contrôle de Traction Intelligent
+- Détecteur de sous-gonflage
+- Ecran panoramique 12" HD
+- ESP
+- Essuie-vitre AV automatique
+- Frein de stationnement électrique automatique
+- Garnissage tissu Ondulice
+- Garnissage Tissu Ondulice - Harmonie Ambre nacré
+- Indicateur de changement de rapport
+- Jantes alliage 16"
+- Kit de dépannage provisoire de pneumatiques
+- Kit mains libres Bluetooth et prise USB
+- Lève-vitres AR électriques
+- Lève-vitres AV électriques
+- Ordinateur de bord
+- Projecteurs antibrouillard AV avec éclairage statique d'intersection
+- Régulateur - limiteur de vitesse programmable
+- Rétroviseurs extérieurs électriques dégivrants
+- Rétroviseurs extérieurs rabattables électriquement
+- Siège passager réglable en hauteur
+- Sièges en rang 2 coulissants
+- Signature latérale chromée
+- Signature lumineuse
+- Signature lumineuse à LED
+- Système audio bi-tuner RDS MP3
+- Système de navigation sur tablette tactile 7"
+- Tablette tactile 7" de commande des fonctionnalités
+- Tablettes type aviation au dos des sièges AV
+- Vitres et lunette AR surteintées
+- Volant cuir pleine fleur
+- Volant mousse réglable en hauteur et en profondeur

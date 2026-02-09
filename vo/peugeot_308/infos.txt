@@ -1,0 +1,30 @@
+title = Peugeot 308 1.6 VTi 120ch Active
+prix = 6000
+annee = 2012
+km = 101000
+carburant = Essence
+boite = Manuelle
+puissance = 120 ch (7 CV)
+couleur = Bleu
+resume = Peugeot 308 1.6 VTi 120ch Active berline, bleu, 7 cv, 5 portes, première mise en circulation le 20/06/2012, garantie 3 mois.
+5 places
+options =
+- rétroviseurs électriques
+- jantes alliage
+- accoudoir central
+- ordinateur de bord
+- volant réglable
+- bluetooth
+- sièges réglables en hauteur
+- radio CD MP3
+- fermeture centralisée
+- rétroviseurs dégivrants
+- ABS
+- airbags frontaux
+- airbags latéraux
+- ESP
+- phares antibrouillard
+- aide au freinage d'urgence
+- répartiteur électronique de freinage
+- airbags rideaux
+- limiteur de vitesse

@@ -1,0 +1,38 @@
+title = Opel Corsa 1.4 90 ch Enjoy
+prix = 7500
+annee = 2018
+km = 103280
+carburant = Essence
+boite = Manuelle
+puissance = 90 ch (5 CV)
+couleur = Noir
+resume = Opel Corsa 1.4 90 ch Enjoy berline, noir, 5 cv, 3 portes, première mise en circulation le 18/10/2018, garantie 3 mois.
+5 places
+options =
+- CD
+- auto-radio : CD
+- allumage automatique des feux
+- limiteur de vitesse
+- régulateur de vitesse
+- Calandre chromée
+- Feux diurnes
+- essuie-glace arrière
+- essuie-glace arrière intermittent
+- rétroviseurs électriques
+- Affichage de la température extérieure
+- Direction électrique à assistance variable (EPS)
+- Dossier de banquette AR inclinable de 7.5° et rabattable
+- Pare-soleil avec miroir de courtoisie côté conducteur
+- Plafonniers AV avec double spot de lecture
+- Volant réglable en hauteur et profondeur
+- gainé cuir et multifonction
+- Miroir de courtoisie coté conducteur
+- climatisation : manuelle
+- climatisation manuelle
+- fermeture centralisée
+- ordinateur de bord
+- réglages du volant : hauteur et profondeur
+- siège conducteur réglable en hauteur
+- vitres avant éléctriques
+- vitres surteintées
+- volant cuir

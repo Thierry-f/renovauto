@@ -1,0 +1,25 @@
+title = FORD TRANSIT CHASSIS CABINE TRANSIT CHASSIS CAB 330 C T
+prix = 12000
+annee = 2004
+km = 128800
+carburant = Diesel
+boite = Manuelle
+puissance = 125 ch (8 CV)
+couleur = Blanc
+resume = FORD TRANSIT CHASSIS CABINE TRANSIT CHASSIS CAB 330 C T, Blanc, 8 cv, 2 portes, première mise en circulation le 29/04/2004, garantie 3 mois.
+3 places
+options =
+- Accoudoir central AV
+- Airbag conducteur
+- Allume-cigare
+- Anti-démarrage avec immobilisation automatique agrée SRA 7 clés
+- Banquette 2 places
+- Ceintures de sécurité 3 points
+- Ceintures de sécurité AV réglables en hauteur
+- Crochet de remorque
+- Panneaux de portes moulés avec poignée de rappel et bac de rangement
+- Phares halogènes
+- Plafonnier AV
+- Vide-poches côté conducteur et vide-poches de portières AV
+- Vide-poches et logement pour téléphone portable dans le tableau de bord avec casier de rangement pou r document au-dessus.
+- Vitre fixe sur panneau derrière conducteur.

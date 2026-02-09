@@ -1,0 +1,47 @@
+title = Fiat Panda 1.2 8V 69 ch Pop
+prix = 3500
+annee = 2013
+km = 148500
+carburant = Essence
+boite = Manuelle
+puissance = 69 ch (4 CV)
+couleur = Blanc
+resume = Fiat Panda 1.2 8V 69 ch Pop berline, blanc, 4 cv, 5 portes, première mise en circulation le 26/10/2011, garantie 3 mois.
+4 places
+options =
+- direction assistée
+- fermeture centralisée
+- ABS
+- aide au freinage d'urgence
+- répartiteur électronique de freinage
+- fixation ISOFIX
+- puissance réelle : 69 ch
+- nombre de rapports : 5 vitesses
+- émission CO2 : 120 g/km
+- Puissance kilowatt : 51 kw
+- vitres avant éléctriques
+- prise 12V
+- Sieges arrières rabattable
+- réglages du volant : hauteur
+- 14 rangements
+- 4 airbags (conducteur, passager, rideaux AV/AR)
+- Activation des feux de détresse en cas de freinage d'urgence
+- Airbag Fiat conducteur
+- Airbag Fiat passager
+- Airbags Fiat rideaux AV et AR
+- Appuis-tête AV actifs anti "coup du lapin"
+- Boucliers couleur carrosserie
+- Ceintures de sécurité AV avec prétensionneur
+- Clignotants confort (1 impulsion
+- plusieurs clignotements)
+- Enjoliveurs de roues
+- Enjoliveurs Pop
+- Feux diurnes
+- Indicateur de changement de vitesse
+- Pare-chocs peints
+- Pare-soleil côté conducteur avec miroir de courtoisie
+- Peinture Pastel Blanc
+- Prédisposition autoradio (câblage
+- antenne et 4 HP)
+- Rétroviseurs et poignées de porte noirs
+- Verrouillage centralisé à clé (sauf coffre)
