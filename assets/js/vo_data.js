@@ -158,7 +158,7 @@ const rawVehicles = [
     "gearbox": "Manuelle",
     "power": "150 ch (7 CV)",
     "color": "Grise",
-    "summary": "Citroën C4 Picasso BlueHDi 120 SetS Intensive monospace, grise, 6 cv, 5 portes, première mise en circulation le 16/02/2016, garantie 3 mois.",
+    "summary": "Citroën C4 Picasso BlueHDi 150 SetS Intensive monospace, grise, 7 cv, 5 portes, première mise en circulation le 16/02/2016, garantie 3 mois.",
     "options": [
       "- ABS + REF + AFU",
       "- Accès et démarrage mains libres",

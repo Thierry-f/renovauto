@@ -6,7 +6,7 @@ carburant = Diesel
 boite = Manuelle
 puissance = 150 ch (7 CV)
 couleur = Grise
-resume = Citroën C4 Picasso BlueHDi 120 SetS Intensive monospace, grise, 6 cv, 5 portes, première mise en circulation le 16/02/2016, garantie 3 mois.
+resume = Citroën C4 Picasso BlueHDi 150 SetS Intensive monospace, grise, 7 cv, 5 portes, première mise en circulation le 16/02/2016, garantie 3 mois.
 5 places
 options =
 - ABS + REF + AFU
