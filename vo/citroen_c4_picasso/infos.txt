@@ -4,7 +4,7 @@ annee = 2016
 km = 138600
 carburant = Diesel
 boite = Manuelle
-puissance = 120 ch (6 CV)
+puissance = 150 ch (7 CV)
 couleur = Grise
 resume = Citroën C4 Picasso BlueHDi 120 SetS Intensive monospace, grise, 6 cv, 5 portes, première mise en circulation le 16/02/2016, garantie 3 mois.
 5 places
