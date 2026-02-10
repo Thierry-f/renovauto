@@ -1,48 +1,62 @@
-﻿@echo off
+@echo off
+setlocal enabledelayedexpansion
+
+REM === RÉNOV'AUTO – Mise à jour du site (Windows) ===
 chcp 65001 >nul
-cd /d %~dp0
 
-echo ================================
-echo   RENOV'AUTO - Mise a jour
-echo   (Windows)
-echo ================================
-echo.
+cd /d "%~dp0"
 
-REM Vérification Node.js
+echo === RÉNOV'AUTO – Mise à jour du site (Windows) ===
+
+REM --- Vérif Node ---
 where node >nul 2>nul
-if %errorlevel% neq 0 (
-    echo ❌ Node.js n'est pas installe ou pas dans le PATH
-    echo Télécharger sur https://nodejs.org
-    pause
-    exit /b
+if errorlevel 1 (
+  echo ❌ Node.js n'est pas installe ou pas dans le PATH.
+  echo Télécharge sur https://nodejs.org
+  pause
+  exit /b 1
 )
 
-REM Vérification Git
+REM --- Vérif Git ---
 where git >nul 2>nul
-if %errorlevel% neq 0 (
-    echo ❌ Git n'est pas installe
-    echo Télécharger sur https://git-scm.com
-    pause
-    exit /b
+if errorlevel 1 (
+  echo ❌ Git n'est pas installe ou pas dans le PATH.
+  echo Télécharge sur https://git-scm.com
+  pause
+  exit /b 1
 )
 
-echo ▶ Génération des véhicules...
-node scripts\generateVoData.mjs
-if %errorlevel% neq 0 (
-    echo ❌ Erreur Node
-    pause
-    exit /b
+REM --- Génération VO ---
+echo ▶ Génération des données véhicules...
+if not exist "scripts\generateVoData.mjs" (
+  echo ❌ Fichier introuvable: scripts\generateVoData.mjs
+  echo Vérifie que le dossier "scripts" existe bien dans ce projet.
+  pause
+  exit /b 1
 )
 
+node "scripts\generateVoData.mjs"
+if errorlevel 1 (
+  echo ❌ Erreur Node pendant la generation.
+  pause
+  exit /b 1
+)
+
+REM --- Git add/commit/push ---
 echo ▶ Ajout des fichiers...
-git add vo assets\js\vo_data.js
+git add -A
 
-echo ▶ Commit...
-git commit -m "Mise a jour automatique des vehicules"
+REM Commit seulement si nécessaire
+git diff --cached --quiet
+if %errorlevel%==0 (
+  echo Aucun changement détecté
+) else (
+  echo ▶ Commit...
+  git commit -m "Mise a jour automatique des vehicules"
+)
 
 echo ▶ Push GitHub...
 git push
 
-echo.
 echo ✅ Site mis a jour avec succes !
 pause
