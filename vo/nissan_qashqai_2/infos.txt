@@ -1,33 +1,31 @@
-title = Nissan Qahqai 1.5 dCi 110 FAP Tekna
-prix = 9500
-annee = 2012
-km = 138369
+title = Nissan Qahqai+2 2.0 dCi 150 FAP Optima
+prix = 6000
+annee = 2009
+km = 227669
 carburant = Diesel
 boite = Manuelle
-puissance = 110 ch (6 CV)
+puissance = 150 ch (9 CV)
 couleur = Noir
-resume = Nissan Qahqai 1.5 dCi 110 FAP Tekna Tout-Terrain, Noir, 6 cv, 5 portes, première mise en circulation le 28/02/2012, garantie 3 mois.
+resume = Nissan Qahqai+2 2.0 dCi 150 FAP Optima Tout-Terrain, Noir, 9 cv, 5 portes, première mise en circulation le 18/02/2009, garantie 3 mois.
 options =
- - 2 porte-gobelets dans l'accoudoir AR
- - 2 porte-gobelets dans la console centrale AV
- - ABS et EBD
- - Accoudoir central AR rabattable
- - Accoudoir central coulissant
+ - 7 sièges
+ - Accoudoir central AR rabattable avec espace de rangement, porte-gobelets et prise 12V
+ - Accoudoir central AV coulissant
  - Airbag passager déconnectable
  - Airbags frontaux, latéraux et rideaux
- - Allumage des phares automatique
+ - Allumage automatique des phares
  - Amplificateur de freinage N.B.A.S.
- - Anti-démarrage
+ - Antidémarrage
  - Appuis-tête aux places AR
  - Appuis-tete AV actifs
- - Banquette AR rabattable 60/40
+ - Banquette AR en 2ème rangée coulissante et rabattable 40/20/40
  - Barres de toit longitudinales couleur argent
- - Boîte à gants réfrigérée
  - Boîte à gants réfrigérée avec porte-lunettes
  - Cache-bagages
  - Ceintures de sécurité AR 3 points à enrouleur
  - Ceintures de sécurité AV 3 points réglables en hauteur avec prétensionneurs et limiteur d'effort
  - Climatisation automatique bi-zone
+ - Coffre de rangement sous siège passager AV
  - Condamnation automatique des portes en roulant
  - Crochets d'arrimage dans le coffre
  - Direction assistée
@@ -35,59 +33,47 @@ options =
  - Eclairage du coffre
  - ESP Contrôle électronique de trajectoire
  - ESP déconnectable
- - Espace de rangement dans la console centrale AV
- - Espace de rangement sous le panneau de commande de climatisation
  - Essuie-glace AR à déclenchement automatique au passage de la marche AR
  - Essuie-glace AR à intermittence asservi à la vitesse
  - Essuie-glace AV à 2 vitesses et intermittence asservie à la vitesse
- - Essuie-glaces AV à déclenchement automatique
+ - Essuie-glace AV à déclenchement automatique
  - Fermeture centralisée des portes à distance
- - Feux antibrouillard AV
- - Feux de brouillard AR
- - Filtre à particules
+ - Feux antibrouillard AR
  - Filtre à pollen
+ - Finition Aluminium: poignées de portes, embase de levier de vitesses et volant
  - Grille de calandre couleur argent
- - Grille de calandre couleur noire
  - Indicateur de température extérieure
  - ISOFIX : Ancrages normalisés pour sièges enfants
  - Jantes alliage 17"
- - Kit anti-crevaison
  - Montre digitale (ou numérique)
- - Nissan Connect
  - Ordinateur de bord
- - Ordinateur de bord avec écran LCD-TFT
- - Pare-brise AV athermique anti UV
- - Pare-soleil conducteur et passager avec miroirs de courtoisie éclairés et jalousies
- - Pédalier aluminium
- - Phares au Xénon avec lave-phares
- - Phares au Xénon avec lave-phares et réglage automatique de l'assiette
- - Poignées de porte, embase de levier de vitesses et volant avec inserts couleur aluminium
- - Poignées de porte, embase de levier de vitesses et volant finition aluminium
+ - Pare-brise anti-UV
+ - Pare-soleil conducteur et passager avec miroirs de courtoisie et jalousies
+ - Phares antibrouillard AV
+ - Poches aumonières au dos des sièges AV
  - Poignées de portières extérieures couleur carrosserie
  - Pommeau de levier de vitesse en aluminium.
- - Porte-gobelets dans l'accoudoir AR
  - Porte-gobelets dans la console centrale AV
- - Prise 12V
+ - Prise 12V sur console centrale AV et dans l'accoudoir AR
  - Prise auxiliaire jack 3.5" pour lecteur MP3
  - Protection de bas de caisse noire
+ - Radar de recul (Aide au stationnement)
+ - Rangement sous le plancher de coffre pour le cache-bagages
  - Régulateur de vitesses avec commandes au volant
- - Régulateur et limiteur de vitesses avec commandes au volant
- - Rétroviseur intérieur photochromatique
+ - Répartiteur de freinage EBD et ABS
+ - Rétroviseur intérieur photochromatique, inversion jour/nuit automatique
  - Rétroviseurs extérieurs à réglages électriques et dégivrants
  - Rétroviseurs extérieurs couleur carrosserie
  - Rétroviseurs extérieurs rabattables électriquement.
  - Roue de secours temporaire
  - Sécurité enfant sur les portes AR
- - Sellerie Cuir
+ - Seuil de chargement de coffre finition Aluminuium
  - Siège conducteur à réglage lombaire
  - Siège conducteur réglable en hauteur
- - Sièges AV chauffants
+ - Sièges AR en 3ème rangée escamotables dans le plancher et rabattables 50/50
  - Spots de lecture AV et AR
- - Système audio Bose 6CD/MP3 et 7 HP
- - Système audio Bose : 6HP, un caisson de grave
- - Système d'ouverture et de démarrage sans clé "Intelligent key"
+ - Système audio RDS CD avec commandes au volant, 4HP
  - Système mains libres Bluetooth avec commandes au volant
- - Toit en verre panoramique
  - Toit en verre panoramique anti-UV avec rideau électrique anti-pincement
  - Ventilation multi-flux
  - Vitres AR électriques

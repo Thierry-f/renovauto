@@ -1,0 +1,55 @@
+title = Ford B-Max 1.0 Ecoboost 125 S&S Business Nav
+prix = 8200
+annee = 2018
+km = 116702
+carburant = Essence
+boite = Manuelle
+puissance = 125 ch (6 CV)
+couleur = Noir
+resume = Ford B-Max 1.0 Ecoboost 125 S&S Business Nav Monospace, Noir, 6 cv, 5 portes, première mise en circulation le 30/04/2018, garantie 3 mois.
+options =
+ - 2 Fixations ISOFIX aux places AR
+ - 3 appuis-tête AR
+ - Aide au stationnement AR
+ - Air conditionné manuel
+ - Airbag genoux conducteur
+ - Airbags frontaux conducteur et passager
+ - Airbags latéraux (Thorax)
+ - Airbags rideaux
+ - Alerte de ceinture de sécurité conducteur et passager AV
+ - Audio Pack 10 NAV
+ - Banquette AR rabattable d'une main - 60/40
+ - Boîte à gants avec éclairage
+ - Colonne de direction réglable en hauteur et en profondeur
+ - Contrôle vectoriel de couple
+ - Désactivation de l'airbag passager
+ - Dossier de siège passager rabattable
+ - Eclairage à extinction progressive
+ - Eclairage de courtoisie AV et AR
+ - Eclairage du coffre
+ - EcoMode (Système d'aide à la conduite économique)
+ - ESP + HLA (aide au démarrage en côte)
+ - Fermeture globale des 4 vitres électriques avec la télécommande
+ - Grille de calandre au contour chromé
+ - Jantes acier 15" avec enjoliveurs
+ - Lampes de lecture AV
+ - My Key
+ - Ordinateur de bord
+ - Phares antibrouillard AV
+ - Plancher de coffre ajustable en hauteur
+ - Poignées de portes extérieures couleur carrosserie
+ - Prise 12V à l'AR
+ - Projecteurs halogènes avec feux de jour (Ampoule/Réflecteur)
+ - Régulateur de vitesse
+ - Rétroviseurs extérieurs réglables et rabattables électriquement couleur carrosserie
+ - Roue de secours galette
+ - Siège conducteur avec poche aumônière
+ - Siège conducteur réglable AV/AR et en hauteur manuellement
+ - Siège passager réglable AV/AR
+ - Système de surveillance de la pression des pneus
+ - Système intelligent de charge par régénération
+ - Tapis de sol AV et AR
+ - Trappe à carburant avec système Ford EasyFuel
+ - Verrouillage centralisé à distance avec 1 clé principale pliante et une 2ème clé fixe
+ - Vitres AV et AR électriques
+ - Volant gainé cuir

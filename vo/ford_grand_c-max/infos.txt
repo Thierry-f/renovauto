@@ -1,0 +1,76 @@
+title = Ford Grand C-MAX 1.0 125 EcoBoost S&S Titanium X
+prix = 9000
+annee = 2015
+km = 96957
+carburant = Essence
+boite = Manuelle
+puissance = 125 ch (6 CV)
+couleur = Bleu
+resume = Ford Grand C-MAX 1.0 125 EcoBoost S&S Titanium X Monospace, Blanc, 6 cv, 5 portes, première mise en circulation le 03/03/2015, garantie 3 mois.
+options =
+ - 5 Appui-têtes AR
+ - 5 Sièges AR indépendants repliables à plat
+ - ABS et répartiteur électronique de freinage
+ - Active Park Assist (système de parking semi-automatique)
+ - Aide au démarrage en côte
+ - Aide au stationnement AR
+ - Aide au stationnement AV
+ - Airbags frontaux conducteur et passager
+ - Airbags latéraux AV
+ - Airbags rideaux
+ - Allumage automatique des phares
+ - Allumage et clignotement automatique des feux Stop en cas de freinage d'urgence
+ - Anti-démarrage PATS
+ - Assistance au freinage d'urgence
+ - Becquet AR couleur carrosserie
+ - Boîte à gants
+ - Cache-bagages
+ - Ceintures de sécurité 3 points à enrouleur sur tous les sièges
+ - Ceintures de sécurité 3 points sur l'ensemble des sièges
+ - Ceintures de sécurité AV réglables en hauteur
+ - Climatisation à régulation automatique bizone
+ - Console centrale AV avec accoudoir coulissant et compartiment de rangement avec porte-gobelets
+ - Contrôle vectoriel de couple TVC
+ - Dégivrage de la lunette AR
+ - Direction assistée
+ - Eclairage de courtoisie
+ - Eclairage du coffre
+ - EcoMode (Système d'aide à la conduite économique)
+ - ESP
+ - Essuie-glace AV automatique à détecteur de pluie
+ - Feu AR antibrouillard
+ - Fixations ISOFIX aux places latérales de la 2ème rangée de sièges
+ - Freins à disques AV et AR
+ - Jantes alliage 16" 7x2 branches avec pneus 215/55 R16
+ - KeyLess (système de démarrage sans clé par bouton poussoir)
+ - Kit de réparation pneumatique
+ - Lève-vitres AV/AR électriques
+ - Ordinateur de bord
+ - Pare-chocs AV/AR couleur carrosserie
+ - Pare-soleil AV avec miroir de courtoisie
+ - Phares antibrouillard AV
+ - Poignées de portes et de coffre couleur carrosserie
+ - Pommeau de levier de vitesse gainé cuir
+ - Portes AR coulissantes
+ - Prise 12V dans le coffre
+ - Régulateur et limiteur de vitesse
+ - Rétroviseur intérieur électrochrome
+ - Rétroviseurs extérieurs couleur carrosserie
+ - Rétroviseurs extérieurs électriques et chauffants
+ - Rétroviseurs extérieurs rabattables électriquement
+ - Rétroviseurs extérieurs rabattables électriquement avec lumière d'approche
+ - SCR
+ - Sécurité enfant avec verrouillage électrique des portes AR
+ - Siège conducteur avec réglage manuel de la hauteur et du support lombaire
+ - Système de Navigation SD Europe - Ford SYNC (avec AppLink
+ - Système de Navigation SD Europe avec écran 5" couleur
+ - Système de surveillance de la pression des pneus (DDS)
+ - Système Stop & Start
+ - Tapis de sol AV et AR en velours
+ - Témoin de bouclage des ceintures de sécurité aux 3 rangées de sièges
+ - Trappe à carburant avec système EasyFuel
+ - Verrouillage centralisé avec commande à distance
+ - Vitres AR surteintées
+ - Volant 4 branches gainé cuir
+ - Volant 4 branches réglable en hauteur et en profondeur
+ - Volant gainé cuir
