@@ -466,7 +466,7 @@ const rawVehicles = [
     "fuel": "Essence",
     "gearbox": "Manuelle",
     "power": "125 ch (6 CV)",
-    "color": "Bleu",
+    "color": "Blanc",
     "summary": "Ford Grand C-MAX 1.0 125 EcoBoost S&S Titanium X Monospace, Blanc, 6 cv, 5 portes, première mise en circulation le 03/03/2015, garantie 3 mois.",
     "options": [
       "- 5 Appui-têtes AR",
