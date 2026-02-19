@@ -1,5 +1,5 @@
 title = Nissan Qahqai 1.5 dCi 110 FAP Tekna
-prix = 9500
+prix = 8500
 annee = 2012
 km = 138369
 carburant = Diesel

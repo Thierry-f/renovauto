@@ -881,7 +881,7 @@ const rawVehicles = [
     "id": "nissan_qashqai",
     "folder": "nissan_qashqai",
     "title": "Nissan Qahqai 1.5 dCi 110 FAP Tekna",
-    "price": 9500,
+    "price": 8500,
     "year": 2012,
     "km": 138369,
     "fuel": "Diesel",
