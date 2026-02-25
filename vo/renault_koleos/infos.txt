@@ -1,0 +1,76 @@
+title = Renault KOLEOS -  2.0 dCi 150 4x4 FAP Dynamique
+prix = 7000
+annee = 2008
+km = 125800
+carburant = Diesel
+boite = Manuelle
+puissance = 150 ch (9 CV)
+couleur = Noir
+resume = Renault KOLEOS -  2.0 dCi 150 4x4 FAP Dynamique Tout-terrain, Noir, 9 cv, 5 portes, première mise en circulation le 11/08/2008, garantie 3 mois.
+5 places
+options =
+ - 3 Appuis-tête AR pleins réglables en hauteur anti "coup du lapin"
+ - ABS avec aide au freinage d'urgence
+ - Accoudoir central AR (repliable dans dossier)
+ - Aide au parking AV/AR
+ - Aide automatique au démarrage en côte
+ - Airbag conducteur et passager
+ - Airbags latéraux AV
+ - Airbags rideaux
+ - Allumage automatique des feux de croisement
+ - Appuis-tête AV à réglage confort et anti "coup du lapin"
+ - Banquette AR rabattable 1/3-2/3 et inclinable (5 réglages)
+ - Barres de toit métal
+ - Boîte à gants éclairée
+ - Boîte à gants réfrigérée
+ - Boucliers et protections latérales ton caisse
+ - Carte de démarrage Renault "Mains libres"
+ - Ceintures de sécurité AR avec limiteurs d'effort
+ - Ceintures de sécurité AV avec limiteurs d' effort et double prétensionneur
+ - Cendrier nomade et allume-cigare
+ - Cerclage des aérateurs aspect chromé
+ - Climatisation régulée bi-zone avec filtre d'habitacle et fonction recyclage d'air
+ - Commandes d'ouverture intérieure noires
+ - Commandes de la trappe à carburant au pied (côté conducteur)
+ - Condamnation automatique des ouvrants en roulant
+ - Conduits de ventilation AR
+ - Console de rangement centrale multifonctions (panier amovible
+ - Crash output En cas d'accident : décondamnation des portes
+ - Eclaireurs de sol à l'AV et à l'AR intégrés dans les portes
+ - ESP
+ - Essuie-vitre AV à détection de pluie et à cadencement automatique
+ - Filet coffre
+ - Frein de parking automatique
+ - Hayon à double ouverture
+ - Jantes alu 17" Long Beach
+ - Miroir de communication intérieure rétractable
+ - Ordinateur de bord 7 fonctions
+ - Pare-soleil conducteur et passager avec miroir de courtoisie
+ - Planche de bord carbone moyen
+ - Poches aumonières au dos des sièges AV
+ - Poignées de portes extérieures peintes aspect chrome
+ - Poignées de tirage peintes aspect chrome
+ - Pommeau de levier de vitesses noir
+ - Pré-disposition alarme
+ - Prise accessoires sur console centrale
+ - Projecteurs antibrouillard
+ - Radiosat 140 W 6 HP
+ - Rangement central ouvert avec porte-gobelets
+ - Rangement sous tapis de coffre
+ - Rangements et porte canettes dans accoudoir central
+ - Rangements fermé dans accoudoir de porte AV
+ - Rangements ouverts de portes AV et AR
+ - Rangements sous siège passager AV et dans plancher à l'AR
+ - Régulateur limiteur de vitesse
+ - Rétroviseurs extérieurs ton carrosserie, dégivrants et rabattables électriquement
+ - Roue de secours temporaire
+ - Siège passager AV rabattable en tablette
+ - Spots de lecture centraux AV
+ - Spots de lecture latéraux AR
+ - System Easy Break : plancher plat en une seule manoeuvre
+ - Système de contrôle de la vitesse en descente
+ - Tablettes type aviation au dos des sièges AV
+ - Trappe à skis dans accoudoir central AR amovible
+ - Vitres AV et AR électriques à impulsion
+ - Volant et pommeau de levier de vitesses en cuir carbone moyen
+ - Volant réglable en hauteur et en profondeur

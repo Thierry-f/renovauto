@@ -86,16 +86,16 @@ const rawVehicles = [
       "- Volant mousse réglable en hauteur et en profondeur"
     ],
     "images": [
-      "IMG_4926.jpeg",
-      "IMG_4927.jpeg",
-      "IMG_4928.jpeg",
-      "IMG_4929.jpeg",
-      "IMG_4930.jpeg",
-      "IMG_4931.jpeg",
-      "IMG_4932.jpeg",
-      "IMG_4933.jpeg"
+      "IMG_4926.jpg",
+      "IMG_4927.jpg",
+      "IMG_4928.jpg",
+      "IMG_4929.jpg",
+      "IMG_4930.jpg",
+      "IMG_4931.jpg",
+      "IMG_4932.jpg",
+      "IMG_4933.jpg"
     ],
-    "mainImage": "IMG_4926.jpeg"
+    "mainImage": "IMG_4926.jpg"
   },
   {
     "id": "citroen_c3_pure-tech",
@@ -136,16 +136,16 @@ const rawVehicles = [
       "- Volant mousse réglable en hauteur et en profondeur"
     ],
     "images": [
-      "IMG_5037.jpeg",
-      "IMG_5038.jpeg",
-      "IMG_5039.jpeg",
-      "IMG_5040.jpeg",
-      "IMG_5041.jpeg",
-      "IMG_5042.jpeg",
-      "IMG_5043.jpeg",
-      "IMG_5044.jpeg"
+      "IMG_5037.jpg",
+      "IMG_5038.jpg",
+      "IMG_5039.jpg",
+      "IMG_5040.jpg",
+      "IMG_5041.jpg",
+      "IMG_5042.jpg",
+      "IMG_5043.jpg",
+      "IMG_5044.jpg"
     ],
-    "mainImage": "IMG_5037.jpeg"
+    "mainImage": "IMG_5037.jpg"
   },
   {
     "id": "citroen_c4_picasso",
@@ -247,13 +247,13 @@ const rawVehicles = [
       "- Vitrage AR surteinté"
     ],
     "images": [
-      "1.jpg",
-      "2.jpg",
-      "3.jpg",
-      "4.jpg",
-      "5.jpg"
+      "1-1.jpg",
+      "2-1.jpg",
+      "3-1.jpg",
+      "4-1.jpg",
+      "5-1.jpg"
     ],
-    "mainImage": "1.jpg"
+    "mainImage": "1-1.jpg"
   },
   {
     "id": "fiat_panda_pop",
@@ -306,16 +306,16 @@ const rawVehicles = [
       "- Verrouillage centralisé à clé (sauf coffre)"
     ],
     "images": [
-      "1.JPEG",
-      "2.JPEG",
-      "3.JPEG",
-      "4.JPEG",
-      "5.JPEG",
-      "6.JPG",
-      "7.JPG",
-      "8.JPG"
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6-1.jpg",
+      "7-1.jpg",
+      "8-1.jpg"
     ],
-    "mainImage": "1.JPEG"
+    "mainImage": "1.jpg"
   },
   {
     "id": "ford_b-max",
@@ -445,16 +445,16 @@ const rawVehicles = [
       "- phares antibrouillard"
     ],
     "images": [
-      "1.jpg",
-      "2.jpg",
-      "3.jpg",
-      "4.jpg",
-      "5.jpg",
-      "6.jpg",
-      "7.jpg",
-      "8.jpg"
+      "1-1.jpg",
+      "2-1.jpg",
+      "3-1.jpg",
+      "4-1.jpg",
+      "5-1.jpg",
+      "6-1.jpg",
+      "7-1.jpg",
+      "8-1.jpg"
     ],
-    "mainImage": "1.jpg"
+    "mainImage": "1-1.jpg"
   },
   {
     "id": "ford_grand_c-max",
@@ -577,18 +577,18 @@ const rawVehicles = [
       "- Vitre fixe sur panneau derrière conducteur."
     ],
     "images": [
-      "IMG_1487.jpg",
-      "IMG_1488.jpg",
-      "IMG_1489.jpg",
-      "IMG_1490.jpg",
-      "IMG_1491.jpg",
-      "IMG_1492.jpg",
-      "IMG_1493.jpg",
-      "IMG_1494.jpg",
-      "IMG_1495.jpg",
-      "IMG_1496.jpg"
+      "IMG_1487-1.jpg",
+      "IMG_1488-1.jpg",
+      "IMG_1489-1.jpg",
+      "IMG_1490-1.jpg",
+      "IMG_1491-1.jpg",
+      "IMG_1492-1.jpg",
+      "IMG_1493-1.jpg",
+      "IMG_1494-1.jpg",
+      "IMG_1495-1.jpg",
+      "IMG_1496-1.jpg"
     ],
-    "mainImage": "IMG_1487.jpg"
+    "mainImage": "IMG_1487-1.jpg"
   },
   {
     "id": "mazda_mx-5",
@@ -637,19 +637,19 @@ const rawVehicles = [
       "- Système de freinage d'urgence BAS"
     ],
     "images": [
-      "1.jpg",
-      "10.jpg",
-      "11.jpg",
-      "2.jpg",
-      "3.jpg",
-      "4.jpg",
-      "5.jpg",
-      "6.jpg",
-      "7.jpg",
-      "8.jpg",
-      "9.jpg"
+      "1-1.jpg",
+      "10-1.jpg",
+      "11-1.jpg",
+      "2-1.jpg",
+      "3-1.jpg",
+      "4-1.jpg",
+      "5-1.jpg",
+      "6-1.jpg",
+      "7-1.jpg",
+      "8-1.jpg",
+      "9-1.jpg"
     ],
-    "mainImage": "1.jpg"
+    "mainImage": "1-1.jpg"
   },
   {
     "id": "micra",
@@ -681,16 +681,16 @@ const rawVehicles = [
       "- Direction électrique à assistance variable"
     ],
     "images": [
-      "20240601_105028.jpg",
-      "20240601_105033.jpg",
-      "20240601_105041.jpg",
-      "20240601_105047.jpg",
-      "20240601_105113.jpg",
-      "20240601_105129.jpg",
-      "20240601_105208.jpg",
-      "20240601_105329.jpg"
+      "20240601_105028-1.jpg",
+      "20240601_105033-1.jpg",
+      "20240601_105041-1.jpg",
+      "20240601_105047-1.jpg",
+      "20240601_105113-1.jpg",
+      "20240601_105129-1.jpg",
+      "20240601_105208-1.jpg",
+      "20240601_105329-1.jpg"
     ],
-    "mainImage": "20240601_105028.jpg"
+    "mainImage": "20240601_105028-1.jpg"
   },
   {
     "id": "mini_cooper_countryman",
@@ -794,16 +794,16 @@ const rawVehicles = [
       "- Volant réglable en hauteur et en profondeur"
     ],
     "images": [
-      "IMG_5084.jpeg",
-      "IMG_5085.jpeg",
-      "IMG_5086.jpeg",
-      "IMG_5087.jpeg",
-      "IMG_5088.jpeg",
-      "IMG_5089.jpeg",
-      "IMG_5090.jpeg",
-      "IMG_5091.jpeg"
+      "IMG_5084.jpg",
+      "IMG_5085.jpg",
+      "IMG_5086.jpg",
+      "IMG_5087.jpg",
+      "IMG_5088.jpg",
+      "IMG_5089.jpg",
+      "IMG_5090.jpg",
+      "IMG_5091.jpg"
     ],
-    "mainImage": "IMG_5084.jpeg"
+    "mainImage": "IMG_5084.jpg"
   },
   {
     "id": "nissan_micra_2017",
@@ -1174,16 +1174,16 @@ const rawVehicles = [
       "- régulateur de vitesse"
     ],
     "images": [
-      "IMG_5891.jpg",
-      "IMG_5892.jpg",
-      "IMG_5893.jpg",
-      "IMG_5894.jpg",
-      "IMG_5895.jpg",
-      "IMG_5896.jpg",
-      "IMG_5897.jpg",
-      "IMG_5898.jpg"
+      "IMG_5891-1.jpg",
+      "IMG_5892-1.jpg",
+      "IMG_5893-1.jpg",
+      "IMG_5894-1.jpg",
+      "IMG_5895-1.jpg",
+      "IMG_5896-1.jpg",
+      "IMG_5897-1.jpg",
+      "IMG_5898-1.jpg"
     ],
-    "mainImage": "IMG_5891.jpg"
+    "mainImage": "IMG_5891-1.jpg"
   },
   {
     "id": "peugeot_308",
@@ -1219,16 +1219,107 @@ const rawVehicles = [
       "- limiteur de vitesse"
     ],
     "images": [
-      "1.jpeg",
-      "2.jpeg",
-      "3.jpeg",
-      "4.jpeg",
-      "5.jpeg",
-      "6.jpeg",
-      "7.jpeg",
-      "8.jpeg"
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg"
     ],
-    "mainImage": "1.jpeg"
+    "mainImage": "1.jpg"
+  },
+  {
+    "id": "renault_koleos",
+    "folder": "renault_koleos",
+    "title": "Renault KOLEOS -  2.0 dCi 150 4x4 FAP Dynamique",
+    "price": 7000,
+    "year": 2008,
+    "km": 125800,
+    "fuel": "Diesel",
+    "gearbox": "Manuelle",
+    "power": "150 ch (9 CV)",
+    "color": "Noir",
+    "summary": "Renault KOLEOS -  2.0 dCi 150 4x4 FAP Dynamique Tout-terrain, Noir, 9 cv, 5 portes, première mise en circulation le 11/08/2008, garantie 3 mois.",
+    "options": [
+      "- 3 Appuis-tête AR pleins réglables en hauteur anti \"coup du lapin\"",
+      "- ABS avec aide au freinage d'urgence",
+      "- Accoudoir central AR (repliable dans dossier)",
+      "- Aide au parking AV/AR",
+      "- Aide automatique au démarrage en côte",
+      "- Airbag conducteur et passager",
+      "- Airbags latéraux AV",
+      "- Airbags rideaux",
+      "- Allumage automatique des feux de croisement",
+      "- Appuis-tête AV à réglage confort et anti \"coup du lapin\"",
+      "- Banquette AR rabattable 1/3-2/3 et inclinable (5 réglages)",
+      "- Barres de toit métal",
+      "- Boîte à gants éclairée",
+      "- Boîte à gants réfrigérée",
+      "- Boucliers et protections latérales ton caisse",
+      "- Carte de démarrage Renault \"Mains libres\"",
+      "- Ceintures de sécurité AR avec limiteurs d'effort",
+      "- Ceintures de sécurité AV avec limiteurs d' effort et double prétensionneur",
+      "- Cendrier nomade et allume-cigare",
+      "- Cerclage des aérateurs aspect chromé",
+      "- Climatisation régulée bi-zone avec filtre d'habitacle et fonction recyclage d'air",
+      "- Commandes d'ouverture intérieure noires",
+      "- Commandes de la trappe à carburant au pied (côté conducteur)",
+      "- Condamnation automatique des ouvrants en roulant",
+      "- Conduits de ventilation AR",
+      "- Console de rangement centrale multifonctions (panier amovible",
+      "- Crash output En cas d'accident : décondamnation des portes",
+      "- Eclaireurs de sol à l'AV et à l'AR intégrés dans les portes",
+      "- ESP",
+      "- Essuie-vitre AV à détection de pluie et à cadencement automatique",
+      "- Filet coffre",
+      "- Frein de parking automatique",
+      "- Hayon à double ouverture",
+      "- Jantes alu 17\" Long Beach",
+      "- Miroir de communication intérieure rétractable",
+      "- Ordinateur de bord 7 fonctions",
+      "- Pare-soleil conducteur et passager avec miroir de courtoisie",
+      "- Planche de bord carbone moyen",
+      "- Poches aumonières au dos des sièges AV",
+      "- Poignées de portes extérieures peintes aspect chrome",
+      "- Poignées de tirage peintes aspect chrome",
+      "- Pommeau de levier de vitesses noir",
+      "- Pré-disposition alarme",
+      "- Prise accessoires sur console centrale",
+      "- Projecteurs antibrouillard",
+      "- Radiosat 140 W 6 HP",
+      "- Rangement central ouvert avec porte-gobelets",
+      "- Rangement sous tapis de coffre",
+      "- Rangements et porte canettes dans accoudoir central",
+      "- Rangements fermé dans accoudoir de porte AV",
+      "- Rangements ouverts de portes AV et AR",
+      "- Rangements sous siège passager AV et dans plancher à l'AR",
+      "- Régulateur limiteur de vitesse",
+      "- Rétroviseurs extérieurs ton carrosserie, dégivrants et rabattables électriquement",
+      "- Roue de secours temporaire",
+      "- Siège passager AV rabattable en tablette",
+      "- Spots de lecture centraux AV",
+      "- Spots de lecture latéraux AR",
+      "- System Easy Break : plancher plat en une seule manoeuvre",
+      "- Système de contrôle de la vitesse en descente",
+      "- Tablettes type aviation au dos des sièges AV",
+      "- Trappe à skis dans accoudoir central AR amovible",
+      "- Vitres AV et AR électriques à impulsion",
+      "- Volant et pommeau de levier de vitesses en cuir carbone moyen",
+      "- Volant réglable en hauteur et en profondeur"
+    ],
+    "images": [
+      "IMG_5503.jpg",
+      "IMG_5504.jpg",
+      "IMG_5505.jpg",
+      "IMG_5506.jpg",
+      "IMG_5507.jpg",
+      "IMG_5508.jpg",
+      "IMG_5509.jpg",
+      "IMG_5510.jpg"
+    ],
+    "mainImage": "IMG_5503.jpg"
   },
   {
     "id": "renault_modus",
@@ -1296,16 +1387,16 @@ const rawVehicles = [
       "- Vitre conducteur à impulsion avec anti-pincement"
     ],
     "images": [
-      "1.jpeg",
-      "2.jpeg",
-      "3.jpeg",
-      "4.jpeg",
-      "5.jpeg",
-      "6.jpeg",
-      "7.jpeg",
-      "8.jpeg"
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg"
     ],
-    "mainImage": "1.jpeg"
+    "mainImage": "1.jpg"
   },
   {
     "id": "renault_modus_blanc",
@@ -1495,15 +1586,15 @@ const rawVehicles = [
       "- Volant, pommeau et soufflet de levier de vitesses, frein à main cuir"
     ],
     "images": [
-      "IMG_5717.jpeg",
-      "IMG_5718.jpeg",
-      "IMG_5719.jpeg",
-      "IMG_5720.jpeg",
-      "IMG_5721.jpeg",
-      "IMG_5722.jpeg",
-      "IMG_5723.jpeg",
-      "IMG_5724.jpeg"
+      "IMG_5717.jpg",
+      "IMG_5718.jpg",
+      "IMG_5719.jpg",
+      "IMG_5720.jpg",
+      "IMG_5721.jpg",
+      "IMG_5722.jpg",
+      "IMG_5723.jpg",
+      "IMG_5724.jpg"
     ],
-    "mainImage": "IMG_5717.jpeg"
+    "mainImage": "IMG_5717.jpg"
   }
 ];
