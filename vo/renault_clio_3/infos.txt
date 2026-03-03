@@ -1,0 +1,48 @@
+title = Renault Clio III TCE 100 eco2 Dynamique
+prix = 4800
+annee = 2008
+km = 117468
+carburant = Essence
+boite = Manuelle
+puissance = 100 ch (6 CV)
+couleur = Rouge
+resume = Renault Clio III TCE 100 eco2 Dynamique
+ Berline, Rouge, 6 cv, 3 portes, première mise en circulation le 01/02/2008, garantie 3 mois.
+5 places
+options =
+ - 2 airbags antiglissement sous assise de sièges AV
+ - 2 Airbags frontaux conducteur et passager adaptatifs
+ - 2 Airbags latéraux thorax conducteur et passager
+ - 3 appuis-tête AR
+ - ABS avec EBV et système d'assistance au freinage d'urgence
+ - Appuis-tête AV réglables en hauteur Nouvelle Génération
+ - Banquette AR rabattable 1/3-2/3
+ - Ceinture de sécurité centrale AR 3 points à enrouleur
+ - Ceintures de sécurité AR latérales 3 points avec limiteur d'effort
+ - Ceintures de sécurité AR latérales 3 points avec prétensionneur
+ - Ceintures de sécurité AV 3 points
+ - Cendrier nomade
+ - Climatisation manuelle
+ - Condamnation électrique des portes à distance
+ - Direction assistée électrique variable
+ - Filtre à air de l'habitacle
+ - Inhibition manuelle des airbags passager AV
+ - Pack Style
+ - Pare-soleil miroir non éclairé
+ - Peinture opaque
+ - Poignées de portes chromées
+ - Projecteurs antibrouillard
+ - Radiosat 80 W CD
+ - Rétroviseurs extérieurs électriques dégivrants
+ - Rétroviseurs ton carrosserie
+ - Roue de secours (version GPL)
+ - Sans cloisons
+ - Sans Prestat. Prod
+ - Sellerie Rip Curl²
+ - Siège conducteur réglable en hauteur
+ - Strippings extérieurs Rock (rouge)
+ - Système de fixation ISOFIX pour sièges enfants aux places latérales AR passager AV
+ - Tapis de sol aux places AV
+ - Vitres AV électriques
+ - Vitres latérales AR et lunette AR surteintées
+ - Volant réglable en hauteur
