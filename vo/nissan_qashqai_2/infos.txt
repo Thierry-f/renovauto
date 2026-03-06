@@ -1,4 +1,4 @@
-title = Nissan Qahqai+2 2.0 dCi 150 FAP Optima
+title = Nissan Qashqai+2 2.0 dCi 150 FAP Optima
 prix = 6000
 annee = 2009
 km = 227669
@@ -6,7 +6,7 @@ carburant = Diesel
 boite = Manuelle
 puissance = 150 ch (9 CV)
 couleur = Noir
-resume = Nissan Qahqai+2 2.0 dCi 150 FAP Optima Tout-Terrain, Noir, 9 cv, 5 portes, première mise en circulation le 18/02/2009, garantie 3 mois.
+resume = Nissan Qashqai+2 2.0 dCi 150 FAP Optima Tout-Terrain, Noir, 9 cv, 5 portes, première mise en circulation le 18/02/2009, garantie 3 mois.
 options =
  - 7 sièges
  - Accoudoir central AR rabattable avec espace de rangement, porte-gobelets et prise 12V
