@@ -924,7 +924,7 @@ const rawVehicles = [
   {
     "id": "nissan_qashqai",
     "folder": "nissan_qashqai",
-    "title": "Nissan Qahqai 1.5 dCi 110 FAP Tekna",
+    "title": "Nissan Qashqai 1.5 dCi 110 FAP Tekna",
     "price": 8500,
     "year": 2012,
     "km": 138369,
@@ -932,7 +932,7 @@ const rawVehicles = [
     "gearbox": "Manuelle",
     "power": "110 ch (6 CV)",
     "color": "Noir",
-    "summary": "Nissan Qahqai 1.5 dCi 110 FAP Tekna Tout-Terrain, Noir, 6 cv, 5 portes, première mise en circulation le 28/02/2012, garantie 3 mois.",
+    "summary": "Nissan Qashqai 1.5 dCi 110 FAP Tekna Tout-Terrain, Noir, 6 cv, 5 portes, première mise en circulation le 28/02/2012, garantie 3 mois.",
     "options": [
       "- 2 porte-gobelets dans l'accoudoir AR",
       "- 2 porte-gobelets dans la console centrale AV",
@@ -1037,7 +1037,7 @@ const rawVehicles = [
   {
     "id": "nissan_qashqai_2",
     "folder": "nissan_qashqai_2",
-    "title": "Nissan Qahqai+2 2.0 dCi 150 FAP Optima",
+    "title": "Nissan Qashqai+2 2.0 dCi 150 FAP Optima",
     "price": 6000,
     "year": 2009,
     "km": 227669,
@@ -1045,7 +1045,7 @@ const rawVehicles = [
     "gearbox": "Manuelle",
     "power": "150 ch (9 CV)",
     "color": "Noir",
-    "summary": "Nissan Qahqai+2 2.0 dCi 150 FAP Optima Tout-Terrain, Noir, 9 cv, 5 portes, première mise en circulation le 18/02/2009, garantie 3 mois.",
+    "summary": "Nissan Qashqai+2 2.0 dCi 150 FAP Optima Tout-Terrain, Noir, 9 cv, 5 portes, première mise en circulation le 18/02/2009, garantie 3 mois.",
     "options": [
       "- 7 sièges",
       "- Accoudoir central AR rabattable avec espace de rangement, porte-gobelets et prise 12V",
