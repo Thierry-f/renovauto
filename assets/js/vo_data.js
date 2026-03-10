@@ -1076,7 +1076,7 @@ const rawVehicles = [
     "gearbox": "Manuelle",
     "power": "110 ch (6 CV)",
     "color": "Blanc",
-    "summary": "Nissan Qashqai 1.5 dCi 110 FAP Tekna Tout-Terrain, Noir, 6 cv, 5 portes, première mise en circulation le 30/12/2013, garantie 3 mois.",
+    "summary": "Nissan Qashqai 1.5 dCi 110 FAP Tekna Tout-Terrain, Blanc, 6 cv, 5 portes, première mise en circulation le 30/12/2013, garantie 3 mois.",
     "options": [
       "- 2 porte-gobelets dans l'accoudoir AR",
       "- 2 porte-gobelets dans la console centrale AV",
