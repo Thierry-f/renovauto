@@ -1,0 +1,76 @@
+title = Ford C-MAX 1.6 TDCI 115 FAP Titanium X
+prix = 6000
+annee = 2014
+km = 190144
+carburant = Diesel
+boite = Manuelle
+puissance = 115 ch (6 CV)
+couleur = Gris
+resume = Ford C-MAX 1.6 TDCI 115 FAP Titanium X Monospace, Gris, 6 cv, 5 portes, première mise en circulation le 28/02/2014, garantie 3 mois.
+options =
+ - 3 appuis-tête AR
+ - 3 sièges AR indépendants rabattables et déposables
+ - ABS avec répartiteur électronique de freinage EBD
+ - Aide au démarrage en côte
+ - Aide au stationnement AR
+ - Airbags frontaux conducteur et passager
+ - Airbags latéraux AV
+ - Airbags rideaux
+ - Allumage automatique des phares
+ - Allumage et clignotement automatique des feux Stop en cas de freinage d'urgence
+ - Anti-démarrage PATS
+ - Assistance au freinage d'urgence
+ - Becquet AR couleur carrosserie
+ - Boîte à gants
+ - Cache-bagages
+ - Ceintures de sécurité 3 points à enrouleur sur tous les sièges
+ - Ceintures de sécurité 3 points sur l'ensemble des sièges
+ - Ceintures de sécurité AV réglables en hauteur
+ - Climatisation à régulation automatique bizone
+ - Console centrale AV avec accoudoir coulissant et compartiment de rangement avec porte-gobelets
+ - Contrôle vectoriel de couple TVC
+ - Dégivrage de la lunette AR
+ - Direction assistée
+ - Eclairage de courtoisie
+ - Eclairage du coffre
+ - EcoMode (Système d'aide à la conduite économique)
+ - ESP
+ - Essuie-glace AV automatique à détecteur de pluie
+ - Feu AR antibrouillard
+ - Fixations ISOFIX aux places latérales AR
+ - Fixations ISOFIX aux places latérales sur la banquette AR
+ - Ford SYNC (avec AppLink, Bluetooth et commandes vocales)
+ - Frein AV et AR à disques
+ - Jantes alliage 16" 7x2 branches avec pneus 215/55 R16
+ - KeyLess (système de démarrage sans clé par bouton poussoir)
+ - Keyless - Système de démarrage sans clé par bouton poussoir
+ - Kit de réparation pneumatique
+ - Lève-vitres AV/AR électriques
+ - Miroir de surveillance des enfants
+ - Ordinateur de bord
+ - Pare-chocs AV/AR couleur carrosserie
+ - Pare-soleil AV avec miroir de courtoisie
+ - Phares antibrouillard AV
+ - Poignées de portes extérieures couleur carrosserie
+ - Pommeau de levier de vitesse gainé cuir
+ - Prise 12V dans le coffre
+ - Régulateur et limiteur de vitesse
+ - Rétroviseur intérieur électrochrome
+ - Rétroviseurs extérieurs couleur carrosserie
+ - Rétroviseurs extérieurs électriques et chauffants
+ - Rétroviseurs extérieurs rabattables électriquement avec lumière d'approche
+ - SCR
+ - Sécurité enfant avec verrouillage électrique des portes AR
+ - Siège conducteur réglable en hauteur manuellement avec réglage lombaire
+ - Sièges AR avec système DIAGOFLEX
+ - Système de navigation Europe avec écran couleur 5", prise USB et 6 HP
+ - Système de Navigation SD Europe avec écran 5" couleur
+ - Système de surveillance de la pression des pneus
+ - Système de surveillance de la pression des pneus (DDS)
+ - Tapis de sol AV et AR
+ - Trappe à carburant avec système EasyFuel
+ - Verrouillage centralisé avec commande à distance
+ - Vitres AR surteintées
+ - Volant 4 branches gainé cuir
+ - Volant 4 branches réglable en hauteur et en profondeur
+ - Volant gainé cuir
