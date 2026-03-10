@@ -1,0 +1,70 @@
+title = Opel INSIGNIA -  2.0 CDTI - 130 FAP Cosmo
+prix = 4500
+annee = 2010
+km = 247473
+carburant = Diesel
+boite = Manuelle
+puissance = 130 ch (7 CV)
+couleur = Grise
+resume = Opel INSIGNIA -  2.0 CDTI - 130 FAP Cosmo Berline, Grise, 7 cv, 5 portes, première mise en circulation le 02/04/2010, garantie 3 mois.
+5 places
+options =
+- 3ème feu stop
+ - Accoudoir central AR
+ - Accoudoir central AV et rangement
+ - Aide au stationnement AV et AR
+ - Airbags latéraux sur sièges AV
+ - Airbags Opel conducteur et passager
+ - Airbags Opel rideaux
+ - Alarme sonore de non extinction des feux
+ - Allumage automatique des feux
+ - Appuis-tête AR inclinables (sauf place centrale) et réglables en hauteur
+ - Appuis-tete AV actifs
+ - Appuis-tête AV réglables en hauteur
+ - Appuis-tête AV réglables en inclinaison
+ - Cendrier et allume-cigare sur console AV
+ - Climatisation automatique bi-zone avec système de recirculation d'air et filtre anti-pollen
+ - Contrôle de freinage en courbe CBC
+ - Contrôle de traction électronique ETC
+ - Contrôle électronique de trajectoire ESP
+ - Détecteur de présence sur siège passager AV régulant le déclenchement de l'airbag
+ - Direction assistée asservie à la vitesse (EHPS)
+ - Dossier de banquette AR rabattable asymétriquement
+ - Feux stops adaptatifs
+ - Frein à main électrique
+ - Indicateur de maintenance
+ - ISOFIX : Ancrages normalisés pour sièges enfants
+ - Jantes alliage 18" 13 branches
+ - Jantes alliage 18" 7 doubles branches
+ - Kit anti-crevaison
+ - Kit sécurité (gilet réfléchissant, triangle de présignalisation et trousse de premier secours)
+ - Ligne de vitrage chromée
+ - Lunette AR dégivrante
+ - Miroirs de courtoisie éclairés
+ - Opel Eye: reconnaissance des panneaux de signalisation et avertisseur de changement de voies
+ - Ordinateur de bord
+ - Pack Assistance
+ - Pack Visibilité
+ - Pare-brise athermique réfléchissant
+ - Pédalier rétractable en cas de choc frontal (PRS)
+ - Phares antibrouillard AV
+ - Plafonniers AV/AR à extinction automatique avec spot de lecture
+ - Poignées de portes chromées
+ - Pommeau de levier de vitesse cuir
+ - Radio CD 30 MP3 avec 7HP et prise auxilliaire audio
+ - Réglage électrique de l'assiette des phares
+ - Régulateur de vitesse
+ - Répartiteur électronique de freinage (EBD)
+ - Rétroviseur intérieur électrochromatique
+ - Rétroviseurs extérieurs électriques, dégivrants et rabattables électriquement
+ - Roue de secours à encombrement réduit
+ - Sellerie mixte Morrocana
+ - Siège conducteur réglable dans 6 directions dont réglage électrique en hauteur
+ - Siège passager réglable en hauteur
+ - Système antiblocage de roues (ABS électronique) et amplificateur de freinage
+ - Trappe à skis
+ - Verrou électronique Opel (antidémarrage)
+ - Verrouillage centralisé et ouverture des vitres à distance par télécommande
+ - Vitres AV et AR électriques à impulsion avec dispositif anti-pincement
+ - Volant 3 branches en cuir avec commandes autoradio et régulateur de vitesses
+ - Volant réglable en hauteur et en profondeur

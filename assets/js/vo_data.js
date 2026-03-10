@@ -1119,6 +1119,47 @@ const rawVehicles = [
     "mainImage": "1.jpg"
   },
   {
+    "id": "opel_insigna",
+    "folder": "opel_insigna",
+    "title": "Véhicule opel_insigna",
+    "price": null,
+    "year": null,
+    "km": null,
+    "fuel": null,
+    "gearbox": null,
+    "power": null,
+    "color": null,
+    "summary": "",
+    "options": [],
+    "images": [
+      "IMG_5661 (2).jpg",
+      "IMG_5662 (2).jpg",
+      "IMG_5663 (2).jpg",
+      "IMG_5664 (2).jpg",
+      "IMG_5665 (2).jpg",
+      "IMG_5666 (2).jpg",
+      "IMG_5667 (2).jpg",
+      "IMG_5668 (2).jpg"
+    ],
+    "mainImage": "IMG_5661 (2).jpg"
+  },
+  {
+    "id": "opel_insigna - Copie",
+    "folder": "opel_insigna - Copie",
+    "title": "Véhicule opel_insigna - Copie",
+    "price": null,
+    "year": null,
+    "km": null,
+    "fuel": null,
+    "gearbox": null,
+    "power": null,
+    "color": null,
+    "summary": "",
+    "options": [],
+    "images": [],
+    "mainImage": null
+  },
+  {
     "id": "opel_meriva",
     "folder": "opel_meriva",
     "title": "Opel Meriva 1.4 Turbo Cosmo",
