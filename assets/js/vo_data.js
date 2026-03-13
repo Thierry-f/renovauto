@@ -194,10 +194,10 @@ const rawVehicles = [
   {
     "id": "citroen_c4_picasso",
     "folder": "citroen_c4_picasso",
-    "title": "Citroën C4 Picasso BlueHDi 120 SetS Intensive",
+    "title": "Citroën C4 Picasso BlueHDi 150 SetS Intensive",
     "price": 7500,
     "year": 2016,
-    "km": 138600,
+    "km": 168150,
     "fuel": "Diesel",
     "gearbox": "Manuelle",
     "power": "150 ch (7 CV)",

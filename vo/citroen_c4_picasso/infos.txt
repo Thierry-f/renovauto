@@ -1,7 +1,7 @@
-title = Citroën C4 Picasso BlueHDi 120 SetS Intensive
+title = Citroën C4 Picasso BlueHDi 150 SetS Intensive
 prix = 7500
 annee = 2016
-km = 138600
+km = 168150
 carburant = Diesel
 boite = Manuelle
 puissance = 150 ch (7 CV)
