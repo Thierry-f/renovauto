@@ -1,0 +1,62 @@
+title = Citroën BERLINGO MULTISPACE HDi 90 XTR
+prix = 8000
+annee = 2014
+km = 183306
+carburant = Diesel
+boite = Manuelle
+puissance = 92 ch (5 CV)
+couleur = Noir
+resume = Citroën BERLINGO MULTISPACE HDi 90 XTR Combiné, Noir, 5 cv, 5 portes, première mise en circulation le 18/06/2014, garantie 3 mois.
+options =
+ - 2 aumônières au dos des sièges AV
+ - 2 portes latérales coulissantes
+ - 2 trappes dans le plancher en rang 2
+ - 3 sièges rang 2 indépendants extractibles (tablette aviation)
+ - 3 sièges rang 2 indépendants, déposables
+ - 4 freins à disque
+ - ABS + REF + AFU
+ - Aide au démarrage en pente
+ - Airbags frontaux
+ - Airbags latéraux AV
+ - Banquette AR 2/3 - 1/3
+ - Barres de toit longitudinales noires
+ - Boîte à gants fermée
+ - Capucine
+ - Climatisation manuelle
+ - Climatisation manuelle + Pack Plus
+ - Condamnation centralisée à clé
+ - Détection de sous-gonflage
+ - Direction à assistance variable
+ - ESP
+ - Feux diurnes à LED
+ - Garnissage Tissu Tectonik Beige
+ - Jantes tôles 16" avec enjoliveurs Rangiroa
+ - Kit de dépannage provisoire de pneumatiques
+ - Lève-vitres AV électriques
+ - Moquette dans l'habitacle
+ - Moquette dans le coffre
+ - Pack carrosserie XTR
+ - Pack carrosserie XTR (bouclier AV spécifique
+ - Pack Plus
+ - Pack tous chemins
+ - Porte latérale coulissante gauche + Pack Plus
+ - Porte latérale droite coulissante
+ - Prise 12V à l'AR
+ - Prise audio RCA
+ - Prise audio RCA dans la boîte à gants
+ - Projecteurs antibrouillard
+ - Régulateur - limiteur de vitesse
+ - Revêtement TPO dans le coffre
+ - Siège conducteur réglable en hauteur
+ - Système audio CD MP3 4HP avec commandes au volant
+ - Système audio CD RDS 4 HP MP3
+ - Système audio CD RDS 4 HP MP3 avec commandes au volant
+ - Tablette cache-bagages rigide
+ - Tablettes type aviation au dos des sièges AV
+ - Témoin de non-bouclage de la ceinture de sécurité conducteur et passager AV
+ - Tiroir sous siège conducteur
+ - Tissu Tectonik Beige
+ - Tissu Tectonik Bleu
+ - Volant réglables 2 axes
+ - Volet AR
+ - Volet AR avec lunette chauffante

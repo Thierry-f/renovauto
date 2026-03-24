@@ -1,0 +1,49 @@
+title = Renault CLIO IV TCe 90 eco2 Zen
+prix = 9000
+annee = 2015
+km = 117260
+carburant = Essence
+boite = Manuelle
+puissance = 90 ch (5 CV)
+couleur = Rouge
+resume = Renault CLIO IV TCe 90 eco2 Zen
+ Berline, Rouge, 5 cv, 5 portes, première mise en circulation le 20/03/2015, garantie 3 mois.
+5 places
+options =
+ - 3 appuis-tête AR réglables en hauteur
+ - Airbags frontaux
+ - Alerte sonore d'oubli de ceinture de sécurité
+ - Ambiance interieure Noir
+ - Antiblocage des roues ABS
+ - Appuis-tête AV
+ - Assistance au freinage d'urgence (A.F.U.)
+ - Banquette AR 1/3-2/3 assise fixe
+ - Becquet AR
+ - Carte Renault à télécommande
+ - Ceintures 3 points à l'AR
+ - Ceintures de sécurité AV réglables en hauteur
+ - Climatisation manuelle
+ - Condamnation électriques des portes
+ - Contrôle de trajectoire ESP
+ - Ecomode
+ - Ecran multimédia tactile 7" (radio MP3, Bluetooth, prises USB et Jack)
+ - Enjoliveurs 16" Flexweel Fairway
+ - Essuie-vitre à cadencement
+ - Feux de jour à LED
+ - Harmonie Carbone foncé
+ - Kit de gonflage et de réparation
+ - Lève-vitres AV électriques
+ - Lunette AR chauffante
+ - Pneus à faible résistance de roulement
+ - Poignées de portes ton caisse
+ - Projecteurs à double optique
+ - Projecteurs antibrouillard
+ - Rétroviseurs extérieurs électriques dégivrants
+ - Rétroviseurs extérieurs ton carrosserie
+ - Sellerie Noir/Gris
+ - Siège conducteur réglable en hauteur
+ - Système d'aide au démarrage en côte
+ - Système de détection de pression des pneus
+ - Système ISOFIX aux places latérales AR et passager AV
+ - Vitres teintées
+ - Volant cuir
