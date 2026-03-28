@@ -1012,16 +1012,16 @@ const rawVehicles = [
       "- TCS (antipatinage)"
     ],
     "images": [
-      "1.jpg",
-      "2.jpg",
-      "3.jpg",
-      "4.jpg",
-      "5.jpg",
-      "6.jpg",
-      "7.jpg",
-      "8.jpg"
+      "IMG_5952.jpg",
+      "IMG_5953.jpg",
+      "IMG_5954.jpg",
+      "IMG_5955.jpg",
+      "IMG_5956.jpg",
+      "IMG_5957.jpg",
+      "IMG_5958.jpg",
+      "IMG_5959.jpg"
     ],
-    "mainImage": "1.jpg"
+    "mainImage": "IMG_5952.jpg"
   },
   {
     "id": "nissan_qashqai",
