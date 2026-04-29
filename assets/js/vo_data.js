@@ -1350,7 +1350,7 @@ const rawVehicles = [
     "fuel": "Essence",
     "gearbox": "Manuelle",
     "power": "68 ch (4 CV)",
-    "color": "Noir",
+    "color": "Grise",
     "summary": "Peugeot 107 1.0e 12V 68ch BLUE LION Trendy Berline, Grise, 4 cv, 3 portes, première mise en circulation le 20/01/2010, garantie 3 mois.",
     "options": [
       "- 2 bacs de rangement dans les portes AV",

@@ -5,7 +5,7 @@ km = 100688
 carburant = Essence
 boite = Manuelle
 puissance = 68 ch (4 CV)
-couleur = Noir
+couleur = Grise
 resume = Peugeot 107 1.0e 12V 68ch BLUE LION Trendy Berline, Grise, 4 cv, 3 portes, première mise en circulation le 20/01/2010, garantie 3 mois.
 options =
  - 2 bacs de rangement dans les portes AV
