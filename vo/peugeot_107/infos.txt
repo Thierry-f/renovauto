@@ -1,0 +1,45 @@
+title = Peugeot 107 1.0e 12V 68ch BLUE LION Trendy
+prix = 4800
+annee = 2010
+km = 100688
+carburant = Essence
+boite = Manuelle
+puissance = 68 ch (4 CV)
+couleur = Noir
+resume = Peugeot 107 1.0e 12V 68ch BLUE LION Trendy Berline, Grise, 4 cv, 3 portes, première mise en circulation le 20/01/2010, garantie 3 mois.
+options =
+ - 2 bacs de rangement dans les portes AV
+ - ABS
+ - Airbags frontaux (passager neutralisable)
+ - Airbags latéraux
+ - Antidémarrage électronique
+ - Appuie-tête (x 2) AR virgule
+ - Baguettes de portes
+ - Banquette AR rabattable 50/50
+ - Boîte à gants ouverte côté passager
+ - Cache-bagages
+ - Ceintures AR (x 2) trois points à enrouleurs
+ - Ceintures de sécurité AV à enrouleurs à prétension pyrotechnique et limiteur d'efforts
+ - Compte-tours
+ - Contrôle de freinage en courbe (CSC)
+ - Coquilles de rétroviseurs et commandes d'ouverture extérieure couleur carrosserie
+ - Direction à assistance variable
+ - Enjoliveurs d'aérateurs et de combiné Gris Silver
+ - Essuie-vitre AR
+ - Essuie-vitre AV
+ - Fixations ISOFIX sur banquette AR (x 2)
+ - Jantes acier 14"
+ - Jupes AV et AR peintes couleur caisse
+ - Lève-vitres électrique AV
+ - Peinture opaque
+ - Pré-équipement radio (avec câblage et antenne)
+ - Prise 12 V à l'AV
+ - Répartiteur Electronique de Freinage (REF)
+ - Rétroviseurs extérieurs à réglages manuel
+ - Roue de secours
+ - Sellerie tissu
+ - Sièges AV avec appuis-têtes intégré
+ - Témoin de non bouclage de ceinture conducteur
+ - Verrouillage centralisé avec télécommande hautes fréquences
+ - Volant réglable en hauteur
+
