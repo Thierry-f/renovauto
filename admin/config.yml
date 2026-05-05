@@ -1,21 +1,24 @@
 backend:
   name: git-gateway
-  branch: main # Vérifie si ta branche est 'main' ou 'master'
+  branch: main # Mettez 'master' si votre branche s'appelle master
 
-media_folder: "assets/img/vo"
-public_folder: "assets/img/vo"
+media_folder: "vo/images_admin"
+public_folder: "vo/images_admin"
 
 collections:
   - name: "vehicules"
-    label: "Mes Véhicules"
-    folder: "vo_data" # C'est ici que le script ira lire les infos
+    label: "Ajouter un Véhicule"
+    folder: "vo_data_auto" # Le dossier où vos annonces seront créées
     create: true
-    slug: "{{title}}"
-    extension: "md"
-    format: "frontmatter"
+    extension: "json" # On enregistre en format lisible par le site
+    slug: "{{id}}"
     fields:
-      - {label: "Nom du modèle", name: "title", widget: "string"}
-      - {label: "Prix (€)", name: "price", widget: "string"}
-      - {label: "Kilométrage", name: "km", widget: "string"}
-      - {label: "Photo principale", name: "image", widget: "image"}
-      - {label: "Description détaillée", name: "body", widget: "markdown"}
+      - {label: "Identifiant Unique (ex: clio-2024)", name: "id", widget: "string"}
+      - {label: "Nom du véhicule", name: "title", widget: "string"}
+      - {label: "Prix (€)", name: "price", widget: "number"}
+      - {label: "Kilométrage", name: "km", widget: "number"}
+      - {label: "Année", name: "year", widget: "number"}
+      - {label: "Carburant", name: "fuel", widget: "select", options: ["Diesel", "Essence", "Hybride", "Électrique", "Éthanol"]}
+      - {label: "Résumé (Court)", name: "summary", widget: "text"}
+      - {label: "Photo Principale", name: "mainImageUrl", widget: "image"}
+      - {label: "Badge (ex: Occasion, Vendu)", name: "badge", widget: "string", required: false}
