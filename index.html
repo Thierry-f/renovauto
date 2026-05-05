@@ -5,6 +5,7 @@
   <title>Rénov'auto - Accueil</title>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <link rel="stylesheet" href="assets/css/style.css" />
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
   <header class="site-header">
@@ -99,5 +100,17 @@
     <script src="assets/js/main.js" defer></script>
     <script src="assets/js/vo_data.js" defer></script>
     <script src="assets/js/index_page.js" defer></script>
+  <script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 </body>
 </html>
