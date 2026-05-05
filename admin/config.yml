@@ -1,0 +1,21 @@
+backend:
+  name: git-gateway
+  branch: main # Vérifie si ta branche est 'main' ou 'master'
+
+media_folder: "assets/img/vo"
+public_folder: "assets/img/vo"
+
+collections:
+  - name: "vehicules"
+    label: "Mes Véhicules"
+    folder: "vo_data" # C'est ici que le script ira lire les infos
+    create: true
+    slug: "{{title}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - {label: "Nom du modèle", name: "title", widget: "string"}
+      - {label: "Prix (€)", name: "price", widget: "string"}
+      - {label: "Kilométrage", name: "km", widget: "string"}
+      - {label: "Photo principale", name: "image", widget: "image"}
+      - {label: "Description détaillée", name: "body", widget: "markdown"}
