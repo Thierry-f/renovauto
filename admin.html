@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Ajouter véhicule</title>
+</head>
+
+<body>
+
+<h2>Ajouter un véhicule</h2>
+
+<input id="titre" placeholder="Titre"><br><br>
+<input id="prix" placeholder="Prix"><br><br>
+<input id="annee" placeholder="Année"><br><br>
+<input id="km" placeholder="Kilométrage"><br><br>
+<input id="carburant" placeholder="Carburant"><br><br>
+<input id="boite" placeholder="Boite"><br><br>
+
+<textarea id="description" placeholder="Description"></textarea><br><br>
+
+<button onclick="generer()">Générer véhicule</button>
+
+<h3>Résultat :</h3>
+<pre id="result"></pre>
+
+<script>
+function generer() {
+
+let titre = document.getElementById("titre").value;
+let prix = document.getElementById("prix").value;
+let annee = document.getElementById("annee").value;
+let km = document.getElementById("km").value;
+let carburant = document.getElementById("carburant").value;
+let boite = document.getElementById("boite").value;
+let description = document.getElementById("description").value;
+
+// nom dossier automatique
+let dossier = titre.toLowerCase().replace(/ /g, "_");
+
+let contenu = `Dossier à créer : vo/${dossier}
+
+infos.txt :
+
+titre: ${titre}
+prix: ${prix}
+annee: ${annee}
+kilometrage: ${km}
+carburant: ${carburant}
+boite: ${boite}
+description: ${description}
+
+👉 Ajoute tes photos dans ce dossier (1.jpg, 2.jpg...)
+`;
+
+document.getElementById("result").textContent = contenu;
+
+}
+</script>
+
+</body>
+</html>
