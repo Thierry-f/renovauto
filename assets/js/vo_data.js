@@ -650,7 +650,7 @@ const rawVehicles = [
     "gearbox": "Manuelle",
     "power": "90 ch (5 CV)",
     "color": "Rouge",
-    "summary": "Renault CLIO IV TCe 90 eco2 Zen",
+    "summary": "Renault CLIO IV TCe 90 eco2 Zen Berline, Rouge, 5 cv, 5 portes, première mise en circulation le 20/03/2015, garantie 3 mois. 5 places",
     "options": [
       "- 3 appuis-tête AR réglables en hauteur",
       "- Airbags frontaux",
@@ -1280,7 +1280,7 @@ const rawVehicles = [
     "gearbox": "Manuelle",
     "power": "125 ch (6 CV)",
     "color": "Gris",
-    "summary": "Ford Grand C-MAX 1.0 125 EcoBoost S&S Titanium  Monospace, Gris, 6 cv, 5 portes, première mise en circulation le 08/02/2018, garantie 3 mois.",
+    "summary": "Ford Grand C-MAX 1.0 125 EcoBoost S&S Titanium  Monospace, Gris, 6 cv, 5 portes, première mise en circulation le 08/02/2018, garantie 3 mois. 7 Places",
     "options": [
       "- 5 Appui-têtes AR",
       "- 5 Sièges AR indépendants repliables à plat",

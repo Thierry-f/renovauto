@@ -6,9 +6,7 @@ carburant = Essence
 boite = Manuelle
 puissance = 90 ch (5 CV)
 couleur = Rouge
-resume = Renault CLIO IV TCe 90 eco2 Zen
- Berline, Rouge, 5 cv, 5 portes, première mise en circulation le 20/03/2015, garantie 3 mois.
-5 places
+resume = Renault CLIO IV TCe 90 eco2 Zen Berline, Rouge, 5 cv, 5 portes, première mise en circulation le 20/03/2015, garantie 3 mois. 5 places
 options =
  - 3 appuis-tête AR réglables en hauteur
  - Airbags frontaux
