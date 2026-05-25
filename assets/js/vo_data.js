@@ -1273,7 +1273,7 @@ const rawVehicles = [
     "id": "ford_grand_c-max",
     "folder": "ford_grand_c-max",
     "title": "Ford Grand C-MAX 1.0 125 EcoBoost S&S Titanium",
-    "price": 102000,
+    "price": 10200,
     "year": 2018,
     "km": 113557,
     "fuel": "Essence",
